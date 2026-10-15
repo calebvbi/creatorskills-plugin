@@ -13,11 +13,13 @@
         "content-creation",
         "retention"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/ai-script-writer-for-youtube",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/ai-script-writer-for-youtube/SKILL.md workflow."
     },
     {
       "slug": "ai-thumbnail-factory",
@@ -33,11 +35,13 @@
         "canva",
         "click-through-rate"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/ai-thumbnail-factory",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/ai-thumbnail-factory/SKILL.md workflow."
     },
     {
       "slug": "ai-title-ab-testing-framework",
@@ -54,11 +58,13 @@
         "seo-titles",
         "content-packaging"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/ai-title-ab-testing-framework",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/ai-title-ab-testing-framework/SKILL.md workflow."
     },
     {
       "slug": "ai-voiceover-for-youtube",
@@ -75,11 +81,13 @@
         "production",
         "audio"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/ai-voiceover-for-youtube",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/ai-voiceover-for-youtube/SKILL.md workflow."
     },
     {
       "slug": "ai-webinar-script-generator-live-event-planner",
@@ -96,11 +104,13 @@
         "presentation",
         "webinar-script"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/ai-webinar-script-generator-live-event-planner",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/ai-webinar-script-generator-live-event-planner/SKILL.md workflow."
     },
     {
       "slug": "analytics-insights-parser",
@@ -113,11 +123,13 @@
         "growth",
         "data"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/analytics-insights-parser",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/analytics-insights-parser/SKILL.md workflow."
     },
     {
       "slug": "analytics-translator",
@@ -134,11 +146,13 @@
         "instagram-insights",
         "content-strategy"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/analytics-translator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/analytics-translator/SKILL.md workflow."
     },
     {
       "slug": "audience-growth-stall-audit",
@@ -157,11 +171,13 @@
         "ctr",
         "algorithm"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/audience-growth-stall-audit",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/audience-growth-stall-audit/SKILL.md workflow."
     },
     {
       "slug": "audience-persona-builder",
@@ -176,11 +192,13 @@
         "targeting",
         "demographics"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/audience-persona-builder",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/audience-persona-builder/SKILL.md workflow."
     },
     {
       "slug": "blog-post-outline-generator",
@@ -196,6 +214,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/blog-post-outline-generator",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/blog-post-outline-generator/SKILL.md workflow."
@@ -214,11 +234,13 @@
         "ai-voice",
         "creator-branding"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/brand-voice-codex",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/brand-voice-codex/SKILL.md workflow."
     },
     {
       "slug": "caption-chain-generator",
@@ -233,11 +255,13 @@
         "hashtags",
         "content-calendar"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/caption-chain-generator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/caption-chain-generator/SKILL.md workflow."
     },
     {
       "slug": "channel-art-and-banner-kit",
@@ -253,11 +277,13 @@
         "avatar",
         "midjourney prompts"
       ],
-      "price": 9,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 9,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/channel-art-and-banner-kit",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/channel-art-and-banner-kit/SKILL.md workflow."
     },
     {
       "slug": "client-proposal-system",
@@ -272,11 +298,13 @@
         "business-development",
         "sales"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/client-proposal-system",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/client-proposal-system/SKILL.md workflow."
     },
     {
       "slug": "collaboration-collab-pitch",
@@ -293,11 +321,13 @@
         "youtube-growth",
         "creator-collabs"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/collaboration-collab-pitch",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/collaboration-collab-pitch/SKILL.md workflow."
     },
     {
       "slug": "community-comment-responder",
@@ -311,11 +341,13 @@
         "engagement",
         "responses"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/community-comment-responder",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/community-comment-responder/SKILL.md workflow."
     },
     {
       "slug": "community-membership-sales-page",
@@ -333,11 +365,13 @@
         "conversion",
         "landing-page"
       ],
-      "price": 14,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 14,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/community-membership-sales-page",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/community-membership-sales-page/SKILL.md workflow."
     },
     {
       "slug": "community-post-calendar",
@@ -353,11 +387,13 @@
         "audience-engagement",
         "youtube-growth"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/community-post-calendar",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/community-post-calendar/SKILL.md workflow."
     },
     {
       "slug": "community-post-ideas",
@@ -372,6 +408,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/community-post-ideas",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/community-post-ideas/SKILL.md workflow."
@@ -389,11 +427,13 @@
         "content-cleanup",
         "analytics"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/content-audit-cleanup",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/content-audit-cleanup/SKILL.md workflow."
     },
     {
       "slug": "content-idea-brainstormer",
@@ -411,6 +451,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/content-idea-brainstormer",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/content-idea-brainstormer/SKILL.md workflow."
@@ -428,6 +470,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/content-repurposing-planner",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/content-repurposing-planner/SKILL.md workflow."
@@ -444,11 +488,13 @@
         "online-courses",
         "education"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/course-curriculum-architect",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/course-curriculum-architect/SKILL.md workflow."
     },
     {
       "slug": "course-lesson-script-generator",
@@ -462,11 +508,13 @@
         "teaching",
         "e-learning"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/course-lesson-script-generator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/course-lesson-script-generator/SKILL.md workflow."
     },
     {
       "slug": "course-sales-page-writer",
@@ -481,11 +529,13 @@
         "marketing",
         "sales-page"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/course-sales-page-writer",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/course-sales-page-writer/SKILL.md workflow."
     },
     {
       "slug": "creator-bio-generator",
@@ -505,6 +555,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/creator-bio-generator",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/creator-bio-generator/SKILL.md workflow."
@@ -524,11 +576,13 @@
         "creator-business",
         "self-employment"
       ],
-      "price": 19,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 19,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/creator-business-tax-tracker",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/creator-business-tax-tracker/SKILL.md workflow."
     },
     {
       "slug": "creator-media-kit-generator",
@@ -545,11 +599,13 @@
         "youtube-sponsorship",
         "influencer-marketing"
       ],
-      "price": 14,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 14,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/creator-media-kit-generator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/creator-media-kit-generator/SKILL.md workflow."
     },
     {
       "slug": "creator-productivity-second-brain",
@@ -566,6 +622,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/creator-productivity-second-brain",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/creator-productivity-second-brain/SKILL.md workflow."
@@ -584,11 +642,13 @@
         "launch-plan",
         "pricing-strategy"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/digital-product-creator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/digital-product-creator/SKILL.md workflow."
     },
     {
       "slug": "email-subject-line-optimizer",
@@ -604,6 +664,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/email-subject-line-optimizer",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/email-subject-line-optimizer/SKILL.md workflow."
@@ -623,11 +685,13 @@
         "youtube-growth",
         "batch-content"
       ],
-      "price": 14,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 14,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/faceless-youtube-channel-system",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/faceless-youtube-channel-system/SKILL.md workflow."
     },
     {
       "slug": "freelance-retainer-pitch-system",
@@ -644,11 +708,13 @@
         "proposals",
         "sales"
       ],
-      "price": 14,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 14,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/freelance-retainer-pitch-system",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/freelance-retainer-pitch-system/SKILL.md workflow."
     },
     {
       "slug": "instagram-reels-script-writer",
@@ -664,6 +730,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/instagram-reels-script-writer",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/instagram-reels-script-writer/SKILL.md workflow."
@@ -683,6 +751,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/kdp-self-publishing-launch-kit",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/kdp-self-publishing-launch-kit/SKILL.md workflow."
@@ -701,11 +771,13 @@
         "sales funnel",
         "monetization"
       ],
-      "price": 12,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 12,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/lead-magnet-to-paid-product-ladder-builder",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/lead-magnet-to-paid-product-ladder-builder/SKILL.md workflow."
     },
     {
       "slug": "linkedin-authority-engine",
@@ -721,11 +793,13 @@
         "freelancers",
         "consultants"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/linkedin-authority-engine",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/linkedin-authority-engine/SKILL.md workflow."
     },
     {
       "slug": "linkedin-content-system",
@@ -741,11 +815,13 @@
         "b2b",
         "content-planning"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/linkedin-content-system",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/linkedin-content-system/SKILL.md workflow."
     },
     {
       "slug": "linkedin-post-formatter",
@@ -761,6 +837,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/linkedin-post-formatter",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/linkedin-post-formatter/SKILL.md workflow."
@@ -780,11 +858,13 @@
         "channel banner",
         "image-generation"
       ],
-      "price": 9,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 9,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/livestream-thumbnail-and-key-art-kit",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/livestream-thumbnail-and-key-art-kit/SKILL.md workflow."
     },
     {
       "slug": "long-form-script-system",
@@ -801,11 +881,13 @@
         "video-scripts",
         "teleprompter"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/long-form-script-system",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/long-form-script-system/SKILL.md workflow."
     },
     {
       "slug": "monetization-strategy-planner",
@@ -820,11 +902,13 @@
         "income-streams",
         "business-strategy"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/monetization-strategy-planner",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/monetization-strategy-planner/SKILL.md workflow."
     },
     {
       "slug": "newsletter-conversion-engine",
@@ -841,11 +925,13 @@
         "beehiiv",
         "subscriber-growth"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/newsletter-conversion-engine",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/newsletter-conversion-engine/SKILL.md workflow."
     },
     {
       "slug": "newsletter-sponsorship-pitch-kit",
@@ -861,11 +947,13 @@
         "ad sales",
         "email"
       ],
-      "price": 10,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 10,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/newsletter-sponsorship-pitch-kit",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/newsletter-sponsorship-pitch-kit/SKILL.md workflow."
     },
     {
       "slug": "newsletter-subscriber-growth-engine",
@@ -883,6 +971,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/newsletter-subscriber-growth-engine",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/newsletter-subscriber-growth-engine/SKILL.md workflow."
@@ -903,11 +993,13 @@
         "creator-tools",
         "project-management"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/notion-content-dashboard-builder",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/notion-content-dashboard-builder/SKILL.md workflow."
     },
     {
       "slug": "online-course-launch-planner",
@@ -923,11 +1015,13 @@
         "course-marketing",
         "cohort-launch"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/online-course-launch-planner",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/online-course-launch-planner/SKILL.md workflow."
     },
     {
       "slug": "patreon-tier-refresh-engine",
@@ -944,11 +1038,13 @@
         "subscription",
         "relaunch"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/patreon-tier-refresh-engine",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/patreon-tier-refresh-engine/SKILL.md workflow."
     },
     {
       "slug": "platform-optimizer-matrix",
@@ -962,11 +1058,13 @@
         "algorithm",
         "growth"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/platform-optimizer-matrix",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/platform-optimizer-matrix/SKILL.md workflow."
     },
     {
       "slug": "podcast-episode-planner",
@@ -981,11 +1079,13 @@
         "solo-episodes",
         "show-structure"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/podcast-episode-planner",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/podcast-episode-planner/SKILL.md workflow."
     },
     {
       "slug": "podcast-guest-booking-system",
@@ -1000,11 +1100,13 @@
         "interviews",
         "podcast growth"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/podcast-guest-booking-system",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/podcast-guest-booking-system/SKILL.md workflow."
     },
     {
       "slug": "podcast-monetization-system",
@@ -1021,11 +1123,13 @@
         "podcast-cpm",
         "affiliate-marketing"
       ],
-      "price": 19,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 19,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/podcast-monetization-system",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/podcast-monetization-system/SKILL.md workflow."
     },
     {
       "slug": "podcast-production-suite",
@@ -1041,11 +1145,13 @@
         "guest-outreach",
         "scripts"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/podcast-production-suite",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/podcast-production-suite/SKILL.md workflow."
     },
     {
       "slug": "podcast-season-arc-planner",
@@ -1061,11 +1167,13 @@
         "batch planning",
         "content strategy"
       ],
-      "price": 10,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 10,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/podcast-season-arc-planner",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/podcast-season-arc-planner/SKILL.md workflow."
     },
     {
       "slug": "podcast-show-notes-creator",
@@ -1081,6 +1189,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/podcast-show-notes-creator",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/podcast-show-notes-creator/SKILL.md workflow."
@@ -1099,11 +1209,13 @@
         "ad script",
         "podcast monetization"
       ],
-      "price": 9,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 9,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/podcast-trailer-and-sponsor-read-script-generator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/podcast-trailer-and-sponsor-read-script-generator/SKILL.md workflow."
     },
     {
       "slug": "post-campaign-sponsor-report-builder",
@@ -1117,11 +1229,13 @@
         "reporting",
         "retention"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/post-campaign-sponsor-report-builder",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/post-campaign-sponsor-report-builder/SKILL.md workflow."
     },
     {
       "slug": "post-purchase-survey-automation",
@@ -1138,11 +1252,13 @@
         "retention",
         "product-market-fit"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/post-purchase-survey-automation",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/post-purchase-survey-automation/SKILL.md workflow."
     },
     {
       "slug": "post-to-thread-converter",
@@ -1160,6 +1276,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/post-to-thread-converter",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/post-to-thread-converter/SKILL.md workflow."
@@ -1178,11 +1296,13 @@
         "visual branding",
         "linkedin"
       ],
-      "price": 8,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 8,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/quote-card-and-carousel-cover-generator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/quote-card-and-carousel-cover-generator/SKILL.md workflow."
     },
     {
       "slug": "script-structure-pro",
@@ -1195,11 +1315,13 @@
         "youtube",
         "structure"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/script-structure-pro",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/script-structure-pro/SKILL.md workflow."
     },
     {
       "slug": "seo-title-description-writer",
@@ -1214,11 +1336,13 @@
         "blog-seo",
         "search-optimization"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/seo-title-description-writer",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/seo-title-description-writer/SKILL.md workflow."
     },
     {
       "slug": "short-form-video-producer",
@@ -1234,11 +1358,13 @@
         "content-calendar",
         "scripts"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/short-form-video-producer",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/short-form-video-producer/SKILL.md workflow."
     },
     {
       "slug": "skool-community-launch-kit",
@@ -1255,11 +1381,13 @@
         "onboarding",
         "retention"
       ],
-      "price": 19,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 19,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/skool-community-launch-kit",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/skool-community-launch-kit/SKILL.md workflow."
     },
     {
       "slug": "sponsor-deal-calculator",
@@ -1274,11 +1402,13 @@
         "media-kit",
         "rates"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/sponsor-deal-calculator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/sponsor-deal-calculator/SKILL.md workflow."
     },
     {
       "slug": "sponsor-outreach-email-writer",
@@ -1295,11 +1425,13 @@
         "brand-deals",
         "creator-income"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/sponsor-outreach-email-writer",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/sponsor-outreach-email-writer/SKILL.md workflow."
     },
     {
       "slug": "sponsor-pitch-email",
@@ -1312,11 +1444,13 @@
         "email",
         "monetization"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/sponsor-pitch-email",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/sponsor-pitch-email/SKILL.md workflow."
     },
     {
       "slug": "thumbnail-ab-test-analyzer",
@@ -1330,11 +1464,13 @@
         "analytics",
         "testing"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/thumbnail-ab-test-analyzer",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/thumbnail-ab-test-analyzer/SKILL.md workflow."
     },
     {
       "slug": "tiktok-script-template",
@@ -1350,6 +1486,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/tiktok-script-template",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/tiktok-script-template/SKILL.md workflow."
@@ -1366,11 +1504,13 @@
         "analytics",
         "strategy"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/trend-hunter-system",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/trend-hunter-system/SKILL.md workflow."
     },
     {
       "slug": "twitch-clip-highlight-generator",
@@ -1387,11 +1527,13 @@
         "content-repurposing",
         "short-form"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/twitch-clip-highlight-generator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/twitch-clip-highlight-generator/SKILL.md workflow."
     },
     {
       "slug": "twitch-stream-manager",
@@ -1408,11 +1550,13 @@
         "overlays",
         "scenes"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/twitch-stream-manager",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/twitch-stream-manager/SKILL.md workflow."
     },
     {
       "slug": "ugc-creator-brief-generator",
@@ -1429,11 +1573,13 @@
         "short-form-video",
         "scope"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/ugc-creator-brief-generator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/ugc-creator-brief-generator/SKILL.md workflow."
     },
     {
       "slug": "ugc-creator-portfolio-kit",
@@ -1450,11 +1596,13 @@
         "outreach",
         "pricing"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/ugc-creator-portfolio-kit",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/ugc-creator-portfolio-kit/SKILL.md workflow."
     },
     {
       "slug": "vertical-video-cover-designer",
@@ -1471,11 +1619,13 @@
         "image-generation",
         "short-form-video"
       ],
-      "price": 9,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 9,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/vertical-video-cover-designer",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/vertical-video-cover-designer/SKILL.md workflow."
     },
     {
       "slug": "video-chapter-generator",
@@ -1489,11 +1639,13 @@
         "organization",
         "seo"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/video-chapter-generator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/video-chapter-generator/SKILL.md workflow."
     },
     {
       "slug": "video-to-everything-repurposer",
@@ -1509,11 +1661,13 @@
         "content-distribution",
         "cross-posting"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/video-to-everything-repurposer",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/video-to-everything-repurposer/SKILL.md workflow."
     },
     {
       "slug": "viral-hook-generator",
@@ -1530,11 +1684,13 @@
         "viral",
         "opening-lines"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/viral-hook-generator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/viral-hook-generator/SKILL.md workflow."
     },
     {
       "slug": "viral-title-generator",
@@ -1547,11 +1703,13 @@
         "viral",
         "CTR"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/viral-title-generator",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/viral-title-generator/SKILL.md workflow."
     },
     {
       "slug": "x-twitter-growth-engine",
@@ -1568,11 +1726,13 @@
         "creator-growth",
         "email-list"
       ],
-      "price": 14,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 14,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/x-twitter-growth-engine",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/x-twitter-growth-engine/SKILL.md workflow."
     },
     {
       "slug": "youtube-chapter-generator",
@@ -1588,6 +1748,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/youtube-chapter-generator",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/youtube-chapter-generator/SKILL.md workflow."
@@ -1607,11 +1769,13 @@
         "creator",
         "weekly-content"
       ],
-      "price": 12,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 12,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/youtube-community-tab-playbook",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/youtube-community-tab-playbook/SKILL.md workflow."
     },
     {
       "slug": "youtube-competitor-analysis",
@@ -1628,11 +1792,13 @@
         "content-gap",
         "channel-growth"
       ],
-      "price": 14,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 14,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/youtube-competitor-analysis",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/youtube-competitor-analysis/SKILL.md workflow."
     },
     {
       "slug": "youtube-seo-system",
@@ -1648,11 +1814,13 @@
         "thumbnails",
         "system"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/youtube-seo-system",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/youtube-seo-system/SKILL.md workflow."
     },
     {
       "slug": "youtube-shorts-script-engine",
@@ -1668,11 +1836,13 @@
         "vertical video",
         "hooks"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/youtube-shorts-script-engine",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/youtube-shorts-script-engine/SKILL.md workflow."
     },
     {
       "slug": "youtube-thumbnail-prompt-system",
@@ -1688,11 +1858,13 @@
         "thumbnail-ab-testing",
         "thumbnail-workflow"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/youtube-thumbnail-prompt-system",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/youtube-thumbnail-prompt-system/SKILL.md workflow."
     },
     {
       "slug": "youtube-thumbnail-refinement-system",
@@ -1708,11 +1880,13 @@
         "ctr-optimization",
         "thumbnail-workflow"
       ],
-      "price": 7,
+      "price": 0,
       "currency": "USD",
+      "websitePrice": 7,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/youtube-thumbnail-refinement-system",
-      "access": "Separate purchase required",
-      "capability": "Library discovery. Instructions are not included in this plugin."
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/youtube-thumbnail-refinement-system/SKILL.md workflow."
     },
     {
       "slug": "youtube-to-twitter-thread",
@@ -1727,6 +1901,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/youtube-to-twitter-thread",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/youtube-to-twitter-thread/SKILL.md workflow."
@@ -1745,6 +1921,8 @@
       ],
       "price": 0,
       "currency": "USD",
+      "websitePrice": 0,
+      "priceScope": "Included plugin workflow",
       "url": "https://creatorskills.co/skills/youtube-video-description-writer",
       "access": "MIT library workflow included; no CreatorSkills account required",
       "capability": "Run the bundled skills/youtube-video-description-writer/SKILL.md workflow."

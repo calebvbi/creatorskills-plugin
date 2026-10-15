@@ -1606,7 +1606,7 @@
           "type": "text",
           "required": false,
           "maxLength": 600,
-          "help": "\"30-day money back, no questions\", \"14 days if you complete module one\", or \"none\". State it plainly. A weak or hidden guarantee measurably costs sales; a strong one increases them and reduces refunds, and we put whichever you have on the page in plain language."
+          "help": "Provide the actual configured refund policy and any conditions. Do not invent a guarantee or assume how it affects sales or refunds."
         },
         {
           "key": "credentials",
@@ -5191,7 +5191,7 @@
           "type": "text",
           "required": false,
           "maxLength": 200,
-          "help": "The title that ran alongside these thumbnails. A thumbnail is never judged on its own: half of CTR is whether the two say different things."
+          "help": "Provide the exact title used with each variant; title and thumbnail changes can confound attribution."
         },
         {
           "key": "changed_variable",
@@ -5224,7 +5224,7 @@
             "instagram",
             "other"
           ],
-          "help": "Sets the CTR benchmark band we score you against. YouTube's 4-6% \"decent\" range is not TikTok's."
+          "help": "Provide the platform so metric definitions and comparable baselines can be checked. Do not apply a universal CTR benchmark."
         },
         {
           "key": "niche",

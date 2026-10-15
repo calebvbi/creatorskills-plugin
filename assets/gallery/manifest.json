@@ -1,0 +1,56 @@
+{
+  "images": [
+    {
+      "file": "01-hero.png",
+      "title": "Rough ideas. Real drafts.",
+      "alt": "Creator workflows for Grok Bot: turn rough source material into useful drafts. Dimensional lettering and a sharp orange pencil on cobalt.",
+      "purpose": "The core promise",
+      "width": 1733,
+      "height": 907,
+      "bytes": 1427922,
+      "sha256": "6a1e33bea954c48b7865f4e2459551e4d4db847a6772e98834ef1037c98c5ec0"
+    },
+    {
+      "file": "02-repurpose.png",
+      "title": "One source. Three formats.",
+      "alt": "Create a video script, social post and newsletter draft from one source. Illustration only: the plugin drafts text; it does not render video or publish posts.",
+      "purpose": "Concrete input to output",
+      "width": 1734,
+      "height": 907,
+      "bytes": 1672373,
+      "sha256": "00c701ad85603ffd05af7a2bfbb67c0889735136387395d56c296682c074473d"
+    },
+    {
+      "file": "03-your-voice.png",
+      "title": "Sound like you.",
+      "alt": "Your supplied writing samples guide the draft. Expressive cobalt lettering on warm ivory.",
+      "purpose": "Voice consistency",
+      "width": 1733,
+      "height": 907,
+      "bytes": 1308162,
+      "sha256": "d17c5ed55e1ebbd24247ef8500847eeb75c1f83ea339437f312d3b114ab00fe1"
+    },
+    {
+      "file": "04-analytics.png",
+      "title": "More views. Fewer clicks.",
+      "alt": "Worked example, clicks divided by views: 50/1,000 = 5%; 45/1,500 = 3%. This is a synthetic comparison, not customer performance.",
+      "purpose": "Evidence before conclusions",
+      "width": 1733,
+      "height": 907,
+      "bytes": 1443981,
+      "sha256": "e4c8562753b7a1f4efa793f08c35d9ae1776646f543229be9a827c2dfc94733e"
+    },
+    {
+      "file": "05-library.png",
+      "title": "Your creator toolkit.",
+      "alt": "94 free creator workflows: 89 owned library workflows plus 5 combined workflows. Plan, Write, Repurpose, Review. The router is not counted as an extra workflow.",
+      "purpose": "The full included library",
+      "width": 1734,
+      "height": 907,
+      "bytes": 1641924,
+      "sha256": "05a2d6b77ad526c8faafe424b1bdc2cdaad5207b69a83ffe9b02d235c35e4727"
+    }
+  ],
+  "type": "Generated editorial advertising; not product screenshots",
+  "placement": "Repository gallery ready for review; marketplace placement unconfirmed"
+}

@@ -2,8 +2,199 @@
   "repository": "https://github.com/calebvbi/creatorskills-free-skills",
   "commit": "f0b765a7bd2307675f35e007b6a1a816d610c083",
   "license": "MIT",
-  "adaptation": "Normalized discovery names and added Grok compatibility rules; adapted source workflows/examples to remove unverified revenue formulas, invented results and contradictory timing guidance. Source hashes identify upstream originals, not adapted output.",
+  "adaptation": "CreatorSkills MIT Grok edition: existing reviewed workflows retained; additional owned instructions released free with source grounding and capability checks. Source hashes identify originals; release receipts identify adapted output.",
   "items": [
+    {
+      "slug": "ai-script-writer-for-youtube",
+      "name": "AI Script Writer for YouTube",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "0048ae00ec0bbab7c54f637ba3655229c97c0c93e88f7f6634e92583f158127c",
+      "sourceExampleSha256": "e4bc48d84ccae20b08ee9622e41d414c5c470846486eba60ccc749e7169048e1",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "0048ae00ec0bbab7c54f637ba3655229c97c0c93e88f7f6634e92583f158127c"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "e4bc48d84ccae20b08ee9622e41d414c5c470846486eba60ccc749e7169048e1"
+        }
+      ]
+    },
+    {
+      "slug": "ai-thumbnail-factory",
+      "name": "AI Thumbnail Factory",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "115a3edf5df6777a1a7c77c85c7d713fcb9a95faac7fd083bfd84aba1dc4e572",
+      "sourceExampleSha256": "9034b62ce3d9d7af3ee83f2c2de3d06957973ccf6446193efa2dc1d50313e804",
+      "supportFiles": [
+        "SETUP.md",
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "115a3edf5df6777a1a7c77c85c7d713fcb9a95faac7fd083bfd84aba1dc4e572"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "9034b62ce3d9d7af3ee83f2c2de3d06957973ccf6446193efa2dc1d50313e804"
+        },
+        {
+          "name": "SETUP.md",
+          "sha256": "7cabdc8a18f05cc7a90f0566f0a3a664ea9f4000017f1d7e8b0c70a1535064c5"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "ddbdc7d050f00ceb275d15c90e864fe54c991b09902857c94caacd780e96a3a0"
+        }
+      ]
+    },
+    {
+      "slug": "ai-title-ab-testing-framework",
+      "name": "AI Title A/B Testing Framework",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "7010aa6a6109e69385bf08c0cca6c02f0f481ec6032c0669e6617996bef74431",
+      "sourceExampleSha256": "78f3b02d8f1ea9871da106daf6bce2ded34f7eb6c202b959787860ee5d16d0e5",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "7010aa6a6109e69385bf08c0cca6c02f0f481ec6032c0669e6617996bef74431"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "78f3b02d8f1ea9871da106daf6bce2ded34f7eb6c202b959787860ee5d16d0e5"
+        }
+      ]
+    },
+    {
+      "slug": "ai-voiceover-for-youtube",
+      "name": "AI Voiceover for YouTube",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "03eb2aed609bd692c5c12a169ad6b6805286c769999efb98c78d222a1f8485ba",
+      "sourceExampleSha256": "7aeda58d45a8a540353c700933f8981d48c3d5b8ad2d628535788954bedc8b2f",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "03eb2aed609bd692c5c12a169ad6b6805286c769999efb98c78d222a1f8485ba"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "7aeda58d45a8a540353c700933f8981d48c3d5b8ad2d628535788954bedc8b2f"
+        }
+      ]
+    },
+    {
+      "slug": "ai-webinar-script-generator-live-event-planner",
+      "name": "AI Webinar Script Generator + Live Event Planner",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "45a8e8550fe512607a9036dfb79ed406b16a222d36d3550746d44742d40dc991",
+      "sourceExampleSha256": "9af2b1e80ba0e388b0f71699db08ea3c929558592ed289be5af0f782564295df",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "45a8e8550fe512607a9036dfb79ed406b16a222d36d3550746d44742d40dc991"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "9af2b1e80ba0e388b0f71699db08ea3c929558592ed289be5af0f782564295df"
+        }
+      ]
+    },
+    {
+      "slug": "analytics-insights-parser",
+      "name": "Analytics Insights Parser",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "7b9af982f6f7258b0d5ccca5cb0b0b06324bbcc077235e5dd3cac5e72e5ffbc3",
+      "sourceExampleSha256": "0fe454cd7cc470e0f1b03576764cf1210783fcc07b5441e2a3f8a7c74d7cb27d",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "7b9af982f6f7258b0d5ccca5cb0b0b06324bbcc077235e5dd3cac5e72e5ffbc3"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "0fe454cd7cc470e0f1b03576764cf1210783fcc07b5441e2a3f8a7c74d7cb27d"
+        }
+      ]
+    },
+    {
+      "slug": "analytics-translator",
+      "name": "Analytics Translator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "3eedfcb58c9d6369dcfbcf5f380da9f10e2c6a0f23b81c424955f454984707ea",
+      "sourceExampleSha256": "b66155b30613428301299c43861c1e0f667b0dbdec26ce774ccb982abf48e9b0",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "3eedfcb58c9d6369dcfbcf5f380da9f10e2c6a0f23b81c424955f454984707ea"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "b66155b30613428301299c43861c1e0f667b0dbdec26ce774ccb982abf48e9b0"
+        }
+      ]
+    },
+    {
+      "slug": "audience-growth-stall-audit",
+      "name": "Audience Growth Stall Audit",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "edfa47cde4b6a98d7cd3a71659814a28d2373c02caa29031e236ac1e86a29154",
+      "sourceExampleSha256": "86da8bf65c8f7918c24e0d1b747c041c6acae7e4ec10d0be6798df148f17855a",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "edfa47cde4b6a98d7cd3a71659814a28d2373c02caa29031e236ac1e86a29154"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "86da8bf65c8f7918c24e0d1b747c041c6acae7e4ec10d0be6798df148f17855a"
+        }
+      ]
+    },
+    {
+      "slug": "audience-persona-builder",
+      "name": "Audience Persona Builder",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "ef186cb90e4d01ccee3227d2abe06bfe610e0770f1ed3038930d3227cddd967a",
+      "sourceExampleSha256": "28b2e415f6225e72cbe2c64d0907eb46fc1515cfb6dd89b836969da4ef4af7fa",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "ef186cb90e4d01ccee3227d2abe06bfe610e0770f1ed3038930d3227cddd967a"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "28b2e415f6225e72cbe2c64d0907eb46fc1515cfb6dd89b836969da4ef4af7fa"
+        }
+      ]
+    },
     {
       "slug": "blog-post-outline-generator",
       "name": "Blog Post Outline Generator",
@@ -11,10 +202,214 @@
       "sourceExampleSha256": "51b395862c9f6d9fad408d5f6ff814eb1cb27ae2af3b097bc463fa8e21bcb677"
     },
     {
+      "slug": "brand-voice-codex",
+      "name": "Brand Voice Codex",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "862781c618e576bd1b848049529b464bd61cc7b1daacca5ee88da90457db0fe5",
+      "sourceExampleSha256": "c014b6d2705ab3ce2640b5210c325904800e23130f142ac763e0457f13f3e349",
+      "supportFiles": [
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "862781c618e576bd1b848049529b464bd61cc7b1daacca5ee88da90457db0fe5"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "c014b6d2705ab3ce2640b5210c325904800e23130f142ac763e0457f13f3e349"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "09f3ee9cf3df67ae39014a24fc5a6db223680a621997d8ad96861446a5418ee2"
+        }
+      ]
+    },
+    {
+      "slug": "caption-chain-generator",
+      "name": "Caption Chain Generator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "54158e6343a0a8c7bacc47e8a8e5d5d3162cb498c2f153e4e41efda60127da73",
+      "sourceExampleSha256": "25474eadd592691a0b355657e3e568be03481e85cc14ef91f81254985647fb8a",
+      "supportFiles": [
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "54158e6343a0a8c7bacc47e8a8e5d5d3162cb498c2f153e4e41efda60127da73"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "25474eadd592691a0b355657e3e568be03481e85cc14ef91f81254985647fb8a"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "72cf8b185e8872064cd4393fe7cc157daa5108633100da53dedf34365e1622cd"
+        }
+      ]
+    },
+    {
+      "slug": "channel-art-and-banner-kit",
+      "name": "Channel Art & Banner Kit",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "d1b62d98d8ff3c32c9048dfec8dfaf75fa0fe51d209c839904f5cb7a326fb05a",
+      "sourceExampleSha256": "3089a2551c3afed8551a131d56c40b621d508287e54a5f7b94b277fb0378f23a",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "d1b62d98d8ff3c32c9048dfec8dfaf75fa0fe51d209c839904f5cb7a326fb05a"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "3089a2551c3afed8551a131d56c40b621d508287e54a5f7b94b277fb0378f23a"
+        }
+      ]
+    },
+    {
+      "slug": "client-proposal-system",
+      "name": "Client Proposal System",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "9fb3efe8da8e769b8bbd3e10ab23a78a3b568bf63dcbda12ecb5e2ca08add3ef",
+      "sourceExampleSha256": "babf8fd20989103d131eeda2f2715c9520cc7750d08c318f013472f82bac455a",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "9fb3efe8da8e769b8bbd3e10ab23a78a3b568bf63dcbda12ecb5e2ca08add3ef"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "babf8fd20989103d131eeda2f2715c9520cc7750d08c318f013472f82bac455a"
+        }
+      ]
+    },
+    {
+      "slug": "collaboration-collab-pitch",
+      "name": "Collaboration & Collab Pitch",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "7a7e92aef89789ff08f8e402aed3835a136292f05d6a2b899c68e3d5a1a248bb",
+      "sourceExampleSha256": "fcd7bfbbc4af622f7898bd7ad4479c815a5ad56a6626301bc54c6d3f04e44863",
+      "supportFiles": [
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "7a7e92aef89789ff08f8e402aed3835a136292f05d6a2b899c68e3d5a1a248bb"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "fcd7bfbbc4af622f7898bd7ad4479c815a5ad56a6626301bc54c6d3f04e44863"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "d9e3fe47d4030ded21feefe4e6604534d1214efc4801a9d3d4878fb6ea18b769"
+        }
+      ]
+    },
+    {
+      "slug": "community-comment-responder",
+      "name": "Community Comment Responder",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "125263056ebe7472e7902f33fe014d28a1f7ed7d45ac5a6a0c01a1f1ef2b21ce",
+      "sourceExampleSha256": "058dfbee371fd43f5742279254f13d727a96a76ec3451ec7c67b68436478fdcf",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "125263056ebe7472e7902f33fe014d28a1f7ed7d45ac5a6a0c01a1f1ef2b21ce"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "058dfbee371fd43f5742279254f13d727a96a76ec3451ec7c67b68436478fdcf"
+        }
+      ]
+    },
+    {
+      "slug": "community-membership-sales-page",
+      "name": "Paid Community Membership Sales Page Writer",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "d5a1e81bbaa9cd0ca9fb824dfce258f5419b0dceacbdc0593ab846deca135f34",
+      "sourceExampleSha256": "c5fae01cbf7a6659e0574644aafede633a402ca4f00252d89c04bfbe29fd53b4",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "d5a1e81bbaa9cd0ca9fb824dfce258f5419b0dceacbdc0593ab846deca135f34"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "c5fae01cbf7a6659e0574644aafede633a402ca4f00252d89c04bfbe29fd53b4"
+        }
+      ]
+    },
+    {
+      "slug": "community-post-calendar",
+      "name": "Community Post Calendar",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "8280aa266ed6cb3910c8dee64012524cddc88405f84a3dcf27d11e192ee0b23b",
+      "sourceExampleSha256": "379b622e55d5844dcfdc65195aa11e269400fc3f7c2e756354d998da65cd3319",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "8280aa266ed6cb3910c8dee64012524cddc88405f84a3dcf27d11e192ee0b23b"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "379b622e55d5844dcfdc65195aa11e269400fc3f7c2e756354d998da65cd3319"
+        }
+      ]
+    },
+    {
       "slug": "community-post-ideas",
       "name": "Community Post Ideas",
       "sourceSkillSha256": "df3d9e7c547403901835826e6a0805a5d5ada86872ba23efe7251fc19599f5b4",
       "sourceExampleSha256": "c9952ad5a3e54bb6a7d0f2ab26d9e1f1e7fe8ec1f937045a5ec511e28414e829"
+    },
+    {
+      "slug": "content-audit-cleanup",
+      "name": "Content Audit & Cleanup",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "0734891be196a3e06594a0a75c65174c91882f96932141e712c0be6650c0190e",
+      "sourceExampleSha256": "801f2fa4ffa8f02627fa495f66588eb4d88a1bde7c33ca37bc03ff28939b5350",
+      "supportFiles": [
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "0734891be196a3e06594a0a75c65174c91882f96932141e712c0be6650c0190e"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "801f2fa4ffa8f02627fa495f66588eb4d88a1bde7c33ca37bc03ff28939b5350"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "9e7822b459f90611e01d2427b23494290eaf34cc9f87d545295f313253b6cf8e"
+        }
+      ]
     },
     {
       "slug": "content-idea-brainstormer",
@@ -29,10 +424,116 @@
       "sourceExampleSha256": "e4ec8a7abdcb0783e7c6e72b7442060ca5e5e9625ac8be6bb3dfcd0a41a9ebaa"
     },
     {
+      "slug": "course-curriculum-architect",
+      "name": "Course Curriculum Architect",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "ea6c2b74d5d545e175d44e3e3512d1fb46ef7e1637f24fbbcd799badfb3557ff",
+      "sourceExampleSha256": "b3bef8164e4552c75ffe4a876bbcbc5fa8dc9a0c0105fc8056188496671ec146",
+      "supportFiles": [
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "ea6c2b74d5d545e175d44e3e3512d1fb46ef7e1637f24fbbcd799badfb3557ff"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "b3bef8164e4552c75ffe4a876bbcbc5fa8dc9a0c0105fc8056188496671ec146"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "fa3b53e7166b8a547092df4db4d0608230b5df7bcbc0a787c0983e7bfe995669"
+        }
+      ]
+    },
+    {
+      "slug": "course-lesson-script-generator",
+      "name": "Course Lesson Script Generator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "b39e87ec9adb4e551c532860349793c10d4fb3baa96755e02f63ed6a1a82062c",
+      "sourceExampleSha256": "68d158f423ca77a129ceb3b2c6febf52f01a43e8c4090861b53a59844c25ea2a",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "b39e87ec9adb4e551c532860349793c10d4fb3baa96755e02f63ed6a1a82062c"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "68d158f423ca77a129ceb3b2c6febf52f01a43e8c4090861b53a59844c25ea2a"
+        }
+      ]
+    },
+    {
+      "slug": "course-sales-page-writer",
+      "name": "Course Sales Page Writer",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "663c933e72809116bbdeae307391bd27f2140b6ccff5b73380c6d31757c516ca",
+      "sourceExampleSha256": "a2091175ddb0980c97255bdcc5a8298d44e378150ee4c7b47b7a8b13ad7c1fb8",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "663c933e72809116bbdeae307391bd27f2140b6ccff5b73380c6d31757c516ca"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "a2091175ddb0980c97255bdcc5a8298d44e378150ee4c7b47b7a8b13ad7c1fb8"
+        }
+      ]
+    },
+    {
       "slug": "creator-bio-generator",
       "name": "Creator Bio Generator",
       "sourceSkillSha256": "77e691adbe1f7a3e20be4244e46cb44bd5a511545812e1907529607c8b8b521e",
       "sourceExampleSha256": "00e6882ab9de78a74cd65c3aea5e97d20470065179790c118f4b1c842011dd79"
+    },
+    {
+      "slug": "creator-business-tax-tracker",
+      "name": "Creator Business & Tax Tracker",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "604e5b398e3c7717cb016cca8eab6d2052b4735b44a7bb5ec3d4cb04aa1a392b",
+      "sourceExampleSha256": "3deec430dd0287975dc08577b1c943168da1e767ca594cc26a4a1ca5de243f6e",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "604e5b398e3c7717cb016cca8eab6d2052b4735b44a7bb5ec3d4cb04aa1a392b"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "3deec430dd0287975dc08577b1c943168da1e767ca594cc26a4a1ca5de243f6e"
+        }
+      ]
+    },
+    {
+      "slug": "creator-media-kit-generator",
+      "name": "Creator Media Kit Generator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "a64a1a0b660d6fafeacf95cf33cf7d3d7b68d8089124b273dd1860d9cb39a2f0",
+      "sourceExampleSha256": "4703f2822d29f9d6126fbb6561a173b51b375ff157c9fe5dd3684f498838125b",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "a64a1a0b660d6fafeacf95cf33cf7d3d7b68d8089124b273dd1860d9cb39a2f0"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "4703f2822d29f9d6126fbb6561a173b51b375ff157c9fe5dd3684f498838125b"
+        }
+      ]
     },
     {
       "slug": "creator-productivity-second-brain",
@@ -41,10 +542,70 @@
       "sourceExampleSha256": "667874359150f771324e2ebc095442453d9923eed68f514f5633397989100a79"
     },
     {
+      "slug": "digital-product-creator",
+      "name": "Digital Product Creator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "caa5b5eb37fdbc8320e54307200ac45e594a7e8639858d9a9b9f45e8dd4bced3",
+      "sourceExampleSha256": "1f890cc096a156f88ebb336cde1386cc472c491dcbb935ec54fb5178e04c0d69",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "caa5b5eb37fdbc8320e54307200ac45e594a7e8639858d9a9b9f45e8dd4bced3"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "1f890cc096a156f88ebb336cde1386cc472c491dcbb935ec54fb5178e04c0d69"
+        }
+      ]
+    },
+    {
       "slug": "email-subject-line-optimizer",
       "name": "Email Subject Line Optimizer",
       "sourceSkillSha256": "98f3bb410178155b373d4cda91e6e53d0ffdb6e299c1283fee349a6024064698",
       "sourceExampleSha256": "f19cdae1bdf330e21f87e37374228017f4266acf4401af7e0760b60649681cd5"
+    },
+    {
+      "slug": "faceless-youtube-channel-system",
+      "name": "Faceless YouTube Channel System",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "255497518f3783c9f41bdea0c6c417093cb9ce63db5753a9d5918c33ea8c352a",
+      "sourceExampleSha256": "0038a8cee999cecd3175e5a5ebf529f7143d0accd03432f4140af1e8200db7cd",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "255497518f3783c9f41bdea0c6c417093cb9ce63db5753a9d5918c33ea8c352a"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "0038a8cee999cecd3175e5a5ebf529f7143d0accd03432f4140af1e8200db7cd"
+        }
+      ]
+    },
+    {
+      "slug": "freelance-retainer-pitch-system",
+      "name": "Freelance Retainer Pitch System",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "c4762bab97368da3034186173b92f7deb12181176bd951930e2f10c0a6d2c4a7",
+      "sourceExampleSha256": "b279cc23352aae191f872fbb5bb39087044d9a8306f87280929052451f262f99",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "c4762bab97368da3034186173b92f7deb12181176bd951930e2f10c0a6d2c4a7"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "b279cc23352aae191f872fbb5bb39087044d9a8306f87280929052451f262f99"
+        }
+      ]
     },
     {
       "slug": "instagram-reels-script-writer",
@@ -59,10 +620,182 @@
       "sourceExampleSha256": "1e814f766bba6df1f2ebd449743219be2c2994251d6e2bdd5d6626236fc7a0b8"
     },
     {
+      "slug": "lead-magnet-to-paid-product-ladder-builder",
+      "name": "Lead Magnet to Paid Product Ladder Builder",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "7e31fefe2eb6ce4436372128a1ec83fa9b4f618abb25b66700c937910e773650",
+      "sourceExampleSha256": "f6a61357cc37dd51fbd65e057e521248e53257571f55cba87d0208e6f3b2c513",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "7e31fefe2eb6ce4436372128a1ec83fa9b4f618abb25b66700c937910e773650"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "f6a61357cc37dd51fbd65e057e521248e53257571f55cba87d0208e6f3b2c513"
+        }
+      ]
+    },
+    {
+      "slug": "linkedin-authority-engine",
+      "name": "LinkedIn Authority Engine",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "b13ac9558b180a4c6fc3c1cfd68dfbcbfc03b466633cf351df6f579f931c7db0",
+      "sourceExampleSha256": "550e7d5849da61a18d1e8062b2cd50cf055521b7f9fcf093faac8e33ebeb9c12",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "b13ac9558b180a4c6fc3c1cfd68dfbcbfc03b466633cf351df6f579f931c7db0"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "550e7d5849da61a18d1e8062b2cd50cf055521b7f9fcf093faac8e33ebeb9c12"
+        }
+      ]
+    },
+    {
+      "slug": "linkedin-content-system",
+      "name": "LinkedIn Content System",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "6d9f991f9e81bfa91f722e4c141237735181033bae9b99ebe498278607a6ecd8",
+      "sourceExampleSha256": "b80bd462c2e079d3f8c0617703e7d61718983b1dee0f12146e2cfd4ccf4cf661",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "6d9f991f9e81bfa91f722e4c141237735181033bae9b99ebe498278607a6ecd8"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "b80bd462c2e079d3f8c0617703e7d61718983b1dee0f12146e2cfd4ccf4cf661"
+        }
+      ]
+    },
+    {
       "slug": "linkedin-post-formatter",
       "name": "LinkedIn Post Formatter",
       "sourceSkillSha256": "98b3c4190ad641af70c67542acda89669bb73e550c6f0c832a1242d422e7d38f",
       "sourceExampleSha256": "97a1396c6f45636445810ef90783173bbdd2976b74a15f695c5a28df093126d2"
+    },
+    {
+      "slug": "livestream-thumbnail-and-key-art-kit",
+      "name": "Livestream Thumbnail & Key Art Kit",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "42e396a016b02f4709dcb39d17b5db1b38dbec6c409885857491b828450cef34",
+      "sourceExampleSha256": "ff5f6861c8163efb5f0da610436defa9fcda7661eade3f843d9b12e2f78cd5d8",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "42e396a016b02f4709dcb39d17b5db1b38dbec6c409885857491b828450cef34"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "ff5f6861c8163efb5f0da610436defa9fcda7661eade3f843d9b12e2f78cd5d8"
+        }
+      ]
+    },
+    {
+      "slug": "long-form-script-system",
+      "name": "Long-Form Script System",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "82016fd61617e05a4853232ed7bc99307bba6ff608789fc2070b3179c041959e",
+      "sourceExampleSha256": "b9eb1750e5d7e879e5b03a3b23da4dea65c7f060b253caed2fe3bc201becfafd",
+      "supportFiles": [
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "82016fd61617e05a4853232ed7bc99307bba6ff608789fc2070b3179c041959e"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "b9eb1750e5d7e879e5b03a3b23da4dea65c7f060b253caed2fe3bc201becfafd"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "0186fe483bf7a49f4949671e7f21fa798925fbba04ac76c74acc483805a7cc9f"
+        }
+      ]
+    },
+    {
+      "slug": "monetization-strategy-planner",
+      "name": "Monetization Strategy Planner",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "554fc3eb4dd8455c7148d266366689de3b577bea8d596d74f66fa55ff602d4d9",
+      "sourceExampleSha256": "a7de67f50632b92d0a06c940481a8f157284317c02147945a91293f17da09822",
+      "supportFiles": [
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "554fc3eb4dd8455c7148d266366689de3b577bea8d596d74f66fa55ff602d4d9"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "a7de67f50632b92d0a06c940481a8f157284317c02147945a91293f17da09822"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "f300143051e38566b660bd3d5e1eed736b2ba76fc1652553a23049212de4dd77"
+        }
+      ]
+    },
+    {
+      "slug": "newsletter-conversion-engine",
+      "name": "Newsletter Conversion Engine",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "9721b357f0784671a033acf18c61fdfb7a4b8afc339cc8fe4ee23a3cbb0477a9",
+      "sourceExampleSha256": "e5244d5718a244af50b64ae51b531d122ad20c156550586f05ad4631c1ff49cd",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "9721b357f0784671a033acf18c61fdfb7a4b8afc339cc8fe4ee23a3cbb0477a9"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "e5244d5718a244af50b64ae51b531d122ad20c156550586f05ad4631c1ff49cd"
+        }
+      ]
+    },
+    {
+      "slug": "newsletter-sponsorship-pitch-kit",
+      "name": "Newsletter Sponsorship Pitch & Media Kit Generator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "b6278e25d668563e18b671ef56bcc4c9921dedd85abfb93a20e5eb13644f7596",
+      "sourceExampleSha256": "b061842f0796beb2ecfdba3e1debe5565a68066aa3b2feb648e0598c701d4943",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "b6278e25d668563e18b671ef56bcc4c9921dedd85abfb93a20e5eb13644f7596"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "b061842f0796beb2ecfdba3e1debe5565a68066aa3b2feb648e0598c701d4943"
+        }
+      ]
     },
     {
       "slug": "newsletter-subscriber-growth-engine",
@@ -71,10 +804,283 @@
       "sourceExampleSha256": "254730ecd3a181c69a2f64a093693cefe01a89f43f61fcd4f75eb4f17531240d"
     },
     {
+      "slug": "notion-content-dashboard-builder",
+      "name": "Notion Content Dashboard Builder",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "69f7f29bff8881b4ab09f8ae8a0d4511d3836bb0689f20d1794769dd0f5f45f0",
+      "sourceExampleSha256": "762f88de9ed7a171f2ba8ee181298a47a9784a924e6f690cff04a5c1a0c1d0b7",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "69f7f29bff8881b4ab09f8ae8a0d4511d3836bb0689f20d1794769dd0f5f45f0"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "762f88de9ed7a171f2ba8ee181298a47a9784a924e6f690cff04a5c1a0c1d0b7"
+        }
+      ]
+    },
+    {
+      "slug": "online-course-launch-planner",
+      "name": "Online Course Launch Planner",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "782ab27747e123529b4dc12f79e3f04346f290caaa09aeeb69439dd253ebc762",
+      "sourceExampleSha256": "4b0b2c25ecda4b11b20a5065407ec6243f53f32cafa0c07f40109e08f710f677",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "782ab27747e123529b4dc12f79e3f04346f290caaa09aeeb69439dd253ebc762"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "4b0b2c25ecda4b11b20a5065407ec6243f53f32cafa0c07f40109e08f710f677"
+        }
+      ]
+    },
+    {
+      "slug": "patreon-tier-refresh-engine",
+      "name": "Patreon Tier Refresh Engine",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "219c5e8044f55be1c01cf3b6c162b62eba85d5f5c9e8e1ac30db84b5c1673b4b",
+      "sourceExampleSha256": "2a44c4fbb42124309ebac70aa314aa57087a107838d65834956ae6ca286ea9e6",
+      "supportFiles": [
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "219c5e8044f55be1c01cf3b6c162b62eba85d5f5c9e8e1ac30db84b5c1673b4b"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "2a44c4fbb42124309ebac70aa314aa57087a107838d65834956ae6ca286ea9e6"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "4d5829be111471ea9fbd030f6dea61ba9651e833e68ef4553f5483308e5b93e0"
+        }
+      ]
+    },
+    {
+      "slug": "platform-optimizer-matrix",
+      "name": "Platform Optimizer Matrix",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "6063faa1f684a9debb520810efe15a18f23f9d026d9534656fe1b98ed619b53c",
+      "sourceExampleSha256": "055835c7b6bf3aa5ef6021998c38aace2e6564651e289f096dbe57075295de49",
+      "supportFiles": [
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "6063faa1f684a9debb520810efe15a18f23f9d026d9534656fe1b98ed619b53c"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "055835c7b6bf3aa5ef6021998c38aace2e6564651e289f096dbe57075295de49"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "a24be9cea29ab40dc6c6a97c7610eee7f1760d49dd3c2b6dc0c80a3b706c5f47"
+        }
+      ]
+    },
+    {
+      "slug": "podcast-episode-planner",
+      "name": "Podcast Episode Planner",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "09e048a379b37cf3138122b38d66f81d047b587ec8e71e6d8caaa5e960fb08d2",
+      "sourceExampleSha256": "6053688312d916c088a135b6717925bac638991151fb7fa33d628b1bd72f4ef5",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "09e048a379b37cf3138122b38d66f81d047b587ec8e71e6d8caaa5e960fb08d2"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "6053688312d916c088a135b6717925bac638991151fb7fa33d628b1bd72f4ef5"
+        }
+      ]
+    },
+    {
+      "slug": "podcast-guest-booking-system",
+      "name": "Podcast Guest Booking System",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "1891ecde5db1dfaf9c08ba206b13a999d52c79b1250c15a04f7c44b2fad85745",
+      "sourceExampleSha256": "3c459fc323aebb9d14da71b1cd6fa1b02fdcf5fe2624c04e74a05afabc8df828",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "1891ecde5db1dfaf9c08ba206b13a999d52c79b1250c15a04f7c44b2fad85745"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "3c459fc323aebb9d14da71b1cd6fa1b02fdcf5fe2624c04e74a05afabc8df828"
+        }
+      ]
+    },
+    {
+      "slug": "podcast-monetization-system",
+      "name": "Podcast Monetization System",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "734e1b5bf0b1da7d2b27138a16badd5a6603145a81f2e5285b01257c78f0c352",
+      "sourceExampleSha256": "1b5c74b89f2ff5c4a3e939cd8cd7cbfe07b3a6d8da942ec98fb462758b27710f",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "734e1b5bf0b1da7d2b27138a16badd5a6603145a81f2e5285b01257c78f0c352"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "1b5c74b89f2ff5c4a3e939cd8cd7cbfe07b3a6d8da942ec98fb462758b27710f"
+        }
+      ]
+    },
+    {
+      "slug": "podcast-production-suite",
+      "name": "Podcast Production Suite",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "858597dab16f0b898bf464a5300d4bfb594e67b41a13199892b90edf7585cd76",
+      "sourceExampleSha256": "b50b9857faeaa1d7e0126098edddd09fb15c19cc8606fdf90d627539be3e5e39",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "858597dab16f0b898bf464a5300d4bfb594e67b41a13199892b90edf7585cd76"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "b50b9857faeaa1d7e0126098edddd09fb15c19cc8606fdf90d627539be3e5e39"
+        }
+      ]
+    },
+    {
+      "slug": "podcast-season-arc-planner",
+      "name": "Podcast Season Arc & Content Calendar Planner",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "ed42e97f6cc8059c2b8d3ff59e68d2c362e701b608042ff29edab0e8e9793f77",
+      "sourceExampleSha256": "e11b49ddf727d3f019bffd6a7bfa28f0c5c6bf2c29b9d2a886eb23a7bbf2a462",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "ed42e97f6cc8059c2b8d3ff59e68d2c362e701b608042ff29edab0e8e9793f77"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "e11b49ddf727d3f019bffd6a7bfa28f0c5c6bf2c29b9d2a886eb23a7bbf2a462"
+        }
+      ]
+    },
+    {
       "slug": "podcast-show-notes-creator",
       "name": "Podcast Show Notes Creator",
       "sourceSkillSha256": "430eff97ee7a02bcc251944b26efe06bb513743b5c6567533d34f4da93c6d007",
       "sourceExampleSha256": "76f6a149bba21a4f2eb6a0585d48f81b44042c05808b141816137875a4a43b97"
+    },
+    {
+      "slug": "podcast-trailer-and-sponsor-read-script-generator",
+      "name": "Podcast Trailer & Sponsor Ad Read Script Generator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "461620d1930274b77bfdd68318a1bffb61ce739b9ff366709647b3e3f9550cbd",
+      "sourceExampleSha256": "69cb71a2402f7588c783f0bcae827827dfdfacac93227770ccf5a58315b331de",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "461620d1930274b77bfdd68318a1bffb61ce739b9ff366709647b3e3f9550cbd"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "69cb71a2402f7588c783f0bcae827827dfdfacac93227770ccf5a58315b331de"
+        }
+      ]
+    },
+    {
+      "slug": "post-campaign-sponsor-report-builder",
+      "name": "Post-Campaign Sponsor Report Builder",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "ddda9c81330e79a62ca0f4ed556da4e1ee42211af2a5a78f659b899fe0d9fe5e",
+      "sourceExampleSha256": "d65a204089c760fe73fc736185cc51a114555edd2261f46023a2701732b91d5c",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "ddda9c81330e79a62ca0f4ed556da4e1ee42211af2a5a78f659b899fe0d9fe5e"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "d65a204089c760fe73fc736185cc51a114555edd2261f46023a2701732b91d5c"
+        }
+      ]
+    },
+    {
+      "slug": "post-purchase-survey-automation",
+      "name": "Post-Purchase Survey Automation",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "59cd594c32fab61c64e90fa96b9a4e66adecf43c1fbc7553855f9b5b03f3571f",
+      "sourceExampleSha256": "cbe0ffde783b8b19df6372049308e2a516f224639ee1cb372b32e8d666b13f78",
+      "supportFiles": [
+        "ANALYTICS.md",
+        "API.md",
+        "SETUP.md",
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "59cd594c32fab61c64e90fa96b9a4e66adecf43c1fbc7553855f9b5b03f3571f"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "cbe0ffde783b8b19df6372049308e2a516f224639ee1cb372b32e8d666b13f78"
+        },
+        {
+          "name": "ANALYTICS.md",
+          "sha256": "96d53527a7694388ceac135ac2a615b23c91fcd6610526c6dab6c49108b5b6df"
+        },
+        {
+          "name": "API.md",
+          "sha256": "6ac99fd60dadc92eec1ff9449abdfe688d633e224799662e94df314f36a44dff"
+        },
+        {
+          "name": "SETUP.md",
+          "sha256": "2ec2959e41641f627983514521fa0a69a004fcf0475d7282870596c3bff2392e"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "d69974c7f3b6fada95af0485dad9dfe4b0cd06b3afb99593eabbead695836e9a"
+        }
+      ]
     },
     {
       "slug": "post-to-thread-converter",
@@ -83,16 +1089,571 @@
       "sourceExampleSha256": "5af536246c24ea098e9db83ce7fc0a21450e79e3171305e5b91aa4f45829c2f4"
     },
     {
+      "slug": "quote-card-and-carousel-cover-generator",
+      "name": "Quote Card & Carousel Cover Generator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "79e0acf0e67c7e699568643c4d18d499a0c22d2917e4141e33a0936957dc02e6",
+      "sourceExampleSha256": "5fbd607a983392edb97b8e0715ae46808541ea566cb94b156846822c5f0ceec4",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "79e0acf0e67c7e699568643c4d18d499a0c22d2917e4141e33a0936957dc02e6"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "5fbd607a983392edb97b8e0715ae46808541ea566cb94b156846822c5f0ceec4"
+        }
+      ]
+    },
+    {
+      "slug": "script-structure-pro",
+      "name": "Script Structure Pro",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "501f70813611334ab3c383416768abe2c51a7d14f7b52023f6c9029dccf5fcf3",
+      "sourceExampleSha256": "bc9ed76f9c3c8206f2f5265d57808a43fb8822fb6988fbd5fa45f75d820a3691",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "501f70813611334ab3c383416768abe2c51a7d14f7b52023f6c9029dccf5fcf3"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "bc9ed76f9c3c8206f2f5265d57808a43fb8822fb6988fbd5fa45f75d820a3691"
+        }
+      ]
+    },
+    {
+      "slug": "seo-title-description-writer",
+      "name": "SEO Title & Description Writer",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "24ce42d3923ce71f902a46d0236ba28831623d18d0b6d37e1a22d8dfe57f2d2f",
+      "sourceExampleSha256": "1db2e97a78406fc6348aebde945fee777e8fe35f9ed328787fad43f7a1bc9729",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "24ce42d3923ce71f902a46d0236ba28831623d18d0b6d37e1a22d8dfe57f2d2f"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "1db2e97a78406fc6348aebde945fee777e8fe35f9ed328787fad43f7a1bc9729"
+        }
+      ]
+    },
+    {
+      "slug": "short-form-video-producer",
+      "name": "Short-Form Video Producer",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "27c84333d99f3630ebd2e8a84043ae9e3b538d821b006deb1a40be7ada36dd8c",
+      "sourceExampleSha256": "fb530906e29dc9380ec478c2ade5ec2f27c84133bcf27c63d985b467e7018ae8",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "27c84333d99f3630ebd2e8a84043ae9e3b538d821b006deb1a40be7ada36dd8c"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "fb530906e29dc9380ec478c2ade5ec2f27c84133bcf27c63d985b467e7018ae8"
+        }
+      ]
+    },
+    {
+      "slug": "skool-community-launch-kit",
+      "name": "Skool Community Launch Kit",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "a4523dee97c39f058a7ded515f32c401f98bb65e97ce9ade3dc157cebfef00d5",
+      "sourceExampleSha256": "5907f073cda9bbdf9b8e49b9eaf86b373970ab2b66a405b32d50ad264ab85c46",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "a4523dee97c39f058a7ded515f32c401f98bb65e97ce9ade3dc157cebfef00d5"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "5907f073cda9bbdf9b8e49b9eaf86b373970ab2b66a405b32d50ad264ab85c46"
+        }
+      ]
+    },
+    {
+      "slug": "sponsor-deal-calculator",
+      "name": "Sponsor Deal Calculator & Pitch",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "1f5d1a565b189b6c86a023069f7085b8144778d8dd5c0653f3c9209f851150a8",
+      "sourceExampleSha256": "248dee393549863074f398aa4a21879eac033b390c7bd59f1b51f60dc40e2845",
+      "supportFiles": [
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "1f5d1a565b189b6c86a023069f7085b8144778d8dd5c0653f3c9209f851150a8"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "248dee393549863074f398aa4a21879eac033b390c7bd59f1b51f60dc40e2845"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "457c59ab5500d58c05727f22544423a511371c084601b06ae09116833e416ea5"
+        }
+      ]
+    },
+    {
+      "slug": "sponsor-outreach-email-writer",
+      "name": "Sponsor Outreach Email Writer",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "dbb6b6d130ba5f14e2a70b03069f48ec7fbf721ec06926501259e43bb3d15747",
+      "sourceExampleSha256": "a092e61817da077b11005c6da305765dd7327382ecdef929b0a330d9a0fa3139",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "dbb6b6d130ba5f14e2a70b03069f48ec7fbf721ec06926501259e43bb3d15747"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "a092e61817da077b11005c6da305765dd7327382ecdef929b0a330d9a0fa3139"
+        }
+      ]
+    },
+    {
+      "slug": "sponsor-pitch-email",
+      "name": "Sponsor Pitch Email",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "3d5125b67386f68af5854919eef3a7ac4c27bfa56e1e4665b50481115750c163",
+      "sourceExampleSha256": "e62ed46bfe047f053af2cebc47596c853b4a1fcccff8a844e27706f23cf1a334",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "3d5125b67386f68af5854919eef3a7ac4c27bfa56e1e4665b50481115750c163"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "e62ed46bfe047f053af2cebc47596c853b4a1fcccff8a844e27706f23cf1a334"
+        }
+      ]
+    },
+    {
+      "slug": "thumbnail-ab-test-analyzer",
+      "name": "Thumbnail A/B Test Analyzer",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "5c3ac51aa9362e05624d2c9eed4885b9b1c3864c8b3fcb43888d0efc9a601c01",
+      "sourceExampleSha256": "a5803dc1c087efedbfc6fdad7da73eea6a23e5c0ceb84d138a1b015f008d996d",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "5c3ac51aa9362e05624d2c9eed4885b9b1c3864c8b3fcb43888d0efc9a601c01"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "a5803dc1c087efedbfc6fdad7da73eea6a23e5c0ceb84d138a1b015f008d996d"
+        }
+      ]
+    },
+    {
       "slug": "tiktok-script-template",
       "name": "TikTok Script Template",
       "sourceSkillSha256": "a20dc135ecb1b20c67b03a14b32e15f4b9065cc16f1ecaf63c4c77449c17fb34",
       "sourceExampleSha256": "5c63662ac29d7e56430e498161032f0eb8262fc064d82390729fe85b45ab356e"
     },
     {
+      "slug": "trend-hunter-system",
+      "name": "Trend Hunter System",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "09a02fd8db8e8779343edd32a525a542a750f95dd670366381d55988c89f1e77",
+      "sourceExampleSha256": "e1ea491ed4412d95d54f7ccc06a1b4ce91a57362ac2c968ea6a5274414c3cbe7",
+      "supportFiles": [
+        "ADVANCED.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "09a02fd8db8e8779343edd32a525a542a750f95dd670366381d55988c89f1e77"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "e1ea491ed4412d95d54f7ccc06a1b4ce91a57362ac2c968ea6a5274414c3cbe7"
+        },
+        {
+          "name": "ADVANCED.md",
+          "sha256": "5607844d1dea4c7e20c02c2efab8a35f66d55c25b4069e2442602cdd3695e5ba"
+        }
+      ]
+    },
+    {
+      "slug": "twitch-clip-highlight-generator",
+      "name": "Twitch Clip & Highlight Generator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "b60ac38923ae61948f0f31eb90fdf9d20e03bf9723e39006723ace6817e06df0",
+      "sourceExampleSha256": "8451ac7a2e982f15cd31f2dee60131fdebdfbe4bc5452b11eb5408d7ff2ae4ad",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "b60ac38923ae61948f0f31eb90fdf9d20e03bf9723e39006723ace6817e06df0"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "8451ac7a2e982f15cd31f2dee60131fdebdfbe4bc5452b11eb5408d7ff2ae4ad"
+        }
+      ]
+    },
+    {
+      "slug": "twitch-stream-manager",
+      "name": "Twitch Stream Manager",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "fab76167a1fc456a964dc856fe9d2721e42447187b64a76b37d4ccd6c40f95da",
+      "sourceExampleSha256": "64b06d2decbabb5076202bd9e6e4a6c11138753a6e36473a70dd2faa67897a80",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "fab76167a1fc456a964dc856fe9d2721e42447187b64a76b37d4ccd6c40f95da"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "64b06d2decbabb5076202bd9e6e4a6c11138753a6e36473a70dd2faa67897a80"
+        }
+      ]
+    },
+    {
+      "slug": "ugc-creator-brief-generator",
+      "name": "UGC Creator Brief Generator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "1087875231c1fe02f69ba945dee9a20c0d0bfecde9cd2f81c086b54e6f6d22d9",
+      "sourceExampleSha256": "7324cd3927c91e3b1344c9a476d539a4c2c53db7460d56f44b4310c47f130517",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "1087875231c1fe02f69ba945dee9a20c0d0bfecde9cd2f81c086b54e6f6d22d9"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "7324cd3927c91e3b1344c9a476d539a4c2c53db7460d56f44b4310c47f130517"
+        }
+      ]
+    },
+    {
+      "slug": "ugc-creator-portfolio-kit",
+      "name": "UGC Creator Portfolio Kit",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "99f3da8549ca824ab162c6fe99cfa12df4c1233d61662a7b0541d943c123ee44",
+      "sourceExampleSha256": "e071d902f81883716cf072984449e30208541af355839d5b00b442bd37a42d49",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "99f3da8549ca824ab162c6fe99cfa12df4c1233d61662a7b0541d943c123ee44"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "e071d902f81883716cf072984449e30208541af355839d5b00b442bd37a42d49"
+        }
+      ]
+    },
+    {
+      "slug": "vertical-video-cover-designer",
+      "name": "Vertical Video Cover Designer",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "17f01623e14f12f4d9580ee45bc36f55d6f10314498503e59a5a5edce8491daf",
+      "sourceExampleSha256": "2238863e0581b114bea85b1f96ea80972cabdd08f0118ad255db0406e0027ce1",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "17f01623e14f12f4d9580ee45bc36f55d6f10314498503e59a5a5edce8491daf"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "2238863e0581b114bea85b1f96ea80972cabdd08f0118ad255db0406e0027ce1"
+        }
+      ]
+    },
+    {
+      "slug": "video-chapter-generator",
+      "name": "Video Chapter Timestamp Generator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "499ad746383937bea9aa36ec3522fdacf84324800c51edffb392a71e6aed9d41",
+      "sourceExampleSha256": "4ec7d25a5cdf321cd9f582921f7a92baa0f8fc432ea2544f4c4610f39ccc4671",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "499ad746383937bea9aa36ec3522fdacf84324800c51edffb392a71e6aed9d41"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "4ec7d25a5cdf321cd9f582921f7a92baa0f8fc432ea2544f4c4610f39ccc4671"
+        }
+      ]
+    },
+    {
+      "slug": "video-to-everything-repurposer",
+      "name": "Video-to-Everything Repurposer",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "87ade203f970510ea741ea4d46e03185828898bd3d17d1262381e022501a690e",
+      "sourceExampleSha256": "04791a62dfee34e7a717385afee5679fd97b9aa9fc26f2b6e47b514caca28b90",
+      "supportFiles": [
+        "ADVANCED.md",
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "87ade203f970510ea741ea4d46e03185828898bd3d17d1262381e022501a690e"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "04791a62dfee34e7a717385afee5679fd97b9aa9fc26f2b6e47b514caca28b90"
+        },
+        {
+          "name": "ADVANCED.md",
+          "sha256": "2720fafa5ae73300ce8ce2afc3eb20aafcb20b53416cedb69a50b2a988aacd9a"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "eb6e8123aa58ae1379db44f568f8ed7f63786ee053fb0a8b89121eac3332d1aa"
+        }
+      ]
+    },
+    {
+      "slug": "viral-hook-generator",
+      "name": "Viral Hook Generator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "df56be124a3bbd2df18965e47929b93681260edf684006b264024792fe20ff5b",
+      "sourceExampleSha256": "f41dcbea95355b6f0bcd113dc64f5c52c19f6b848eb57331054bbc47c913b90d",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "df56be124a3bbd2df18965e47929b93681260edf684006b264024792fe20ff5b"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "f41dcbea95355b6f0bcd113dc64f5c52c19f6b848eb57331054bbc47c913b90d"
+        }
+      ]
+    },
+    {
+      "slug": "viral-title-generator",
+      "name": "Viral Title Generator",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "c605c32fea040b9cffeb37835a44cbec107da22703b3c79d21a513a4e7a1d1e0",
+      "sourceExampleSha256": "fe8e9560a79ffa1c4327435e8d5794918389a7f7e3294e05ddfd8132b5c04054",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "c605c32fea040b9cffeb37835a44cbec107da22703b3c79d21a513a4e7a1d1e0"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "fe8e9560a79ffa1c4327435e8d5794918389a7f7e3294e05ddfd8132b5c04054"
+        }
+      ]
+    },
+    {
+      "slug": "x-twitter-growth-engine",
+      "name": "Twitter/X Growth Engine",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "803357f506a4ef59249851453d552eeed05139575e6c89a456f08fd72577bb38",
+      "sourceExampleSha256": "07c1fc9377afb4d44f36044d808c5708941e4a7551bb16d75fcf4ed9d1cd2f64",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "803357f506a4ef59249851453d552eeed05139575e6c89a456f08fd72577bb38"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "07c1fc9377afb4d44f36044d808c5708941e4a7551bb16d75fcf4ed9d1cd2f64"
+        }
+      ]
+    },
+    {
       "slug": "youtube-chapter-generator",
       "name": "YouTube Chapter Generator",
       "sourceSkillSha256": "cb1d946e4dc7a78d6ddfaa1948a3e0710c1b1f753a65ff1127b7aafa8bbee694",
       "sourceExampleSha256": "b19634e8881a30fedd134daaaa250df08d609928007e717cfd4711706084a20a"
+    },
+    {
+      "slug": "youtube-community-tab-playbook",
+      "name": "YouTube Community Tab Playbook",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "1ce0a9267124dd417a732a5b0a055de892bc3250e7a42c98a4ae9cb34184169b",
+      "sourceExampleSha256": "277fb854e6821eac5f51fe83522cd1e90d47f74f9f9ba50624724c1a9839c5bf",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "1ce0a9267124dd417a732a5b0a055de892bc3250e7a42c98a4ae9cb34184169b"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "277fb854e6821eac5f51fe83522cd1e90d47f74f9f9ba50624724c1a9839c5bf"
+        }
+      ]
+    },
+    {
+      "slug": "youtube-competitor-analysis",
+      "name": "YouTube Competitor Analysis",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "d9eff158705fe1e7003865bc2119b3209ab6fe890c6c728f69bb4bee027d0fc3",
+      "sourceExampleSha256": "f4bb899fc28955a7c45b558cc047287974904a4518f73791015c9ea8fae0df95",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "d9eff158705fe1e7003865bc2119b3209ab6fe890c6c728f69bb4bee027d0fc3"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "f4bb899fc28955a7c45b558cc047287974904a4518f73791015c9ea8fae0df95"
+        }
+      ]
+    },
+    {
+      "slug": "youtube-seo-system",
+      "name": "YouTube SEO System",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "d22d7448c328debc07cf7ea9560bdfa1c488e00015c5674a089e3692a116587e",
+      "sourceExampleSha256": "ff364f125ab17f587c03d71895904c78333dc46edf5c3644483c7e079bbfb62d",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "d22d7448c328debc07cf7ea9560bdfa1c488e00015c5674a089e3692a116587e"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "ff364f125ab17f587c03d71895904c78333dc46edf5c3644483c7e079bbfb62d"
+        }
+      ]
+    },
+    {
+      "slug": "youtube-shorts-script-engine",
+      "name": "YouTube Shorts Script Engine",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "d468fd8fb11660b19443e497c01b84335a65b9b93f55f484ce231181472ff635",
+      "sourceExampleSha256": "7ba1945225e74a7a840360d3fb0fc9ddd92510f006c051b7955eb40717a7a71c",
+      "supportFiles": [],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "d468fd8fb11660b19443e497c01b84335a65b9b93f55f484ce231181472ff635"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "7ba1945225e74a7a840360d3fb0fc9ddd92510f006c051b7955eb40717a7a71c"
+        }
+      ]
+    },
+    {
+      "slug": "youtube-thumbnail-prompt-system",
+      "name": "YouTube Thumbnail Prompt System",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "c54c0d8cb7ada4fdec57a696f39e64c48dc79c7987e28e03c5d5b9fcbbf24270",
+      "sourceExampleSha256": "1d3593a8c42bd8ef415e4f6426c71e2af73f4568bebff42d5714fe0eb9d99396",
+      "supportFiles": [
+        "TEMPLATES.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "c54c0d8cb7ada4fdec57a696f39e64c48dc79c7987e28e03c5d5b9fcbbf24270"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "1d3593a8c42bd8ef415e4f6426c71e2af73f4568bebff42d5714fe0eb9d99396"
+        },
+        {
+          "name": "TEMPLATES.md",
+          "sha256": "67509decc7cf6712264ab15527df9edea66953f17ff74f3eec28aa649d90e2d5"
+        }
+      ]
+    },
+    {
+      "slug": "youtube-thumbnail-refinement-system",
+      "name": "YouTube Thumbnail Refinement System",
+      "sourceRepository": "CreatorSkills owned library",
+      "sourceCommit": "0d2fb0f0f5528fe85d4c88b7ab4feb10de59fe21",
+      "license": "MIT",
+      "sourceSkillSha256": "fabab2cfa2dbe5dc1104d36bc80ac47ec152c51ee4613ec69b51a0327362d658",
+      "sourceExampleSha256": "d311602f5d3f719549bfe458f3ee1087a871f8bb72d146757d19ae62fd3b9126",
+      "supportFiles": [
+        "CHECKLIST.md"
+      ],
+      "sourceFiles": [
+        {
+          "name": "SKILL.md",
+          "sha256": "fabab2cfa2dbe5dc1104d36bc80ac47ec152c51ee4613ec69b51a0327362d658"
+        },
+        {
+          "name": "EXAMPLE.md",
+          "sha256": "d311602f5d3f719549bfe458f3ee1087a871f8bb72d146757d19ae62fd3b9126"
+        },
+        {
+          "name": "CHECKLIST.md",
+          "sha256": "cadcf0e587a02ba4f312ea941692c976891096b095cc4418b47f6be35f880022"
+        }
+      ]
     },
     {
       "slug": "youtube-to-twitter-thread",
@@ -106,5 +1667,6 @@
       "sourceSkillSha256": "fd20f9e431085f9937021cd236edf64c63de1a49ec3be27ceb9df7f31d93f40e",
       "sourceExampleSha256": "d468f2243bb35062505e46d065731ddc8c98a6ccf66adc18019f79c0f8cad46b"
     }
-  ]
+  ],
+  "ownerAuthorization": "CreatorSkills owner explicitly authorized monetary-strategy changes and free distribution for this Grok Bot plugin. This new MIT edition does not change previous purchaser rights. The survey workflow's historical marketplace-license pointer is superseded for this edition only; third-party agent-tools and internal Iris brief remain excluded."
 }

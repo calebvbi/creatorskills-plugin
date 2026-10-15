@@ -13,10 +13,10 @@ Use information already supplied. Ask only for missing required inputs. When bot
 | Input | Required | Guidance |
 | --- | --- | --- |
 | Impressions and clicks per variant | Required | One line per thumbnail. Paste it straight out of YouTube Studio: "A: 2847 impressions, 312 clicks". CTR percentages alone are not enough: we need the raw counts to tell a real difference from noise. |
-| Video title | Optional | The title that ran alongside these thumbnails. A thumbnail is never judged on its own: half of CTR is whether the two say different things. |
+| Video title | Optional | Provide the exact title used with each variant; title and thumbnail changes can confound attribution. |
 | What did you change between variants? | Required | The click-through arithmetic is identical either way: impressions and clicks do not care which half of the packaging moved. This decides what the diagnosis is allowed to talk about, and it is required rather than inferred because a readout that blames the thumbnail for a title test is worse than no readout. Options: thumbnail, title, both. |
 | Describe each variant | Optional | Uploads are not available yet, so describe each variant in a sentence instead. Thumbnail test: what is in frame, the expression, the overlay words, the dominant colours: "A: me mid-shrug, left third, 'I QUIT' in yellow on navy." Title test: paste the titles verbatim. Both: give the pair per variant. Without this you still get the maths and the verdict, just not the why. |
-| Platform | Optional | Sets the CTR benchmark band we score you against. YouTube's 4-6% "decent" range is not TikTok's. Options: youtube, tiktok, instagram, other. |
+| Platform | Optional | Provide the platform so metric definitions and comparable baselines can be checked. Do not apply a universal CTR benchmark. Options: youtube, tiktok, instagram, other. |
 | Niche | Optional | Benchmarks move by category. Gaming and finance channels do not share a normal CTR. |
 
 ## Return a ready-to-use brief

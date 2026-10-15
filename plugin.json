@@ -1,11 +1,23 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "creatorskills",
-  "version": "0.2.1",
-  "description": "Create scripts, posts, show notes, newsletters, and creator business drafts with 22 free workflows. Explore the CreatorSkills library, use skills you own, and prepare inputs for hosted creator apps.",
-  "author": { "name": "CreatorSkills", "email": "support@creatorskills.co", "url": "https://creatorskills.co" },
+  "version": "0.3.0",
+  "description": "Turn ideas and source material into scripts, posts, newsletters and creator business drafts. Includes 94 free workflows, writing-voice guidance, careful analytics and 55 app preparation guides.",
+  "author": {
+    "name": "CreatorSkills",
+    "email": "support@creatorskills.co",
+    "url": "https://creatorskills.co"
+  },
   "homepage": "https://creatorskills.co",
   "repository": "https://github.com/calebvbi/creatorskills-plugin",
   "license": "MIT",
-  "keywords": ["content-creators", "youtube", "repurposing", "brand-voice", "newsletter", "sponsorship", "analytics"]
+  "keywords": [
+    "content-creators",
+    "youtube",
+    "repurposing",
+    "brand-voice",
+    "newsletter",
+    "sponsorship",
+    "analytics"
+  ]
 }

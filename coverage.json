@@ -7,454 +7,454 @@
     "freeListings": 17,
     "appGuides": 55,
     "bundledOriginalWorkflows": 5,
-    "bundledLibraryWorkflows": 17
+    "bundledLibraryWorkflows": 89
   },
   "included": {
     "skills": [
       {
         "slug": "ai-script-writer-for-youtube",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "ai-thumbnail-factory",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "ai-title-ab-testing-framework",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "ai-voiceover-for-youtube",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "ai-webinar-script-generator-live-event-planner",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "analytics-insights-parser",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "analytics-translator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "audience-growth-stall-audit",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "audience-persona-builder",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "blog-post-outline-generator",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "brand-voice-codex",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "caption-chain-generator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "channel-art-and-banner-kit",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "client-proposal-system",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "collaboration-collab-pitch",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "community-comment-responder",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "community-membership-sales-page",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "community-post-calendar",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "community-post-ideas",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "content-audit-cleanup",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "content-idea-brainstormer",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "content-repurposing-planner",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "course-curriculum-architect",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "course-lesson-script-generator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "course-sales-page-writer",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "creator-bio-generator",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "creator-business-tax-tracker",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "creator-media-kit-generator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "creator-productivity-second-brain",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "digital-product-creator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "email-subject-line-optimizer",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "faceless-youtube-channel-system",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "freelance-retainer-pitch-system",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "instagram-reels-script-writer",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "kdp-self-publishing-launch-kit",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "lead-magnet-to-paid-product-ladder-builder",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "linkedin-authority-engine",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "linkedin-content-system",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "linkedin-post-formatter",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "livestream-thumbnail-and-key-art-kit",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "long-form-script-system",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "monetization-strategy-planner",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "newsletter-conversion-engine",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "newsletter-sponsorship-pitch-kit",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "newsletter-subscriber-growth-engine",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "notion-content-dashboard-builder",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "online-course-launch-planner",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "patreon-tier-refresh-engine",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "platform-optimizer-matrix",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "podcast-episode-planner",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "podcast-guest-booking-system",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "podcast-monetization-system",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "podcast-production-suite",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "podcast-season-arc-planner",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "podcast-show-notes-creator",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "podcast-trailer-and-sponsor-read-script-generator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "post-campaign-sponsor-report-builder",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "post-purchase-survey-automation",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "post-to-thread-converter",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "quote-card-and-carousel-cover-generator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "script-structure-pro",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "seo-title-description-writer",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "short-form-video-producer",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "skool-community-launch-kit",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "sponsor-deal-calculator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "sponsor-outreach-email-writer",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "sponsor-pitch-email",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "thumbnail-ab-test-analyzer",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "tiktok-script-template",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "trend-hunter-system",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "twitch-clip-highlight-generator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "twitch-stream-manager",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "ugc-creator-brief-generator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "ugc-creator-portfolio-kit",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "vertical-video-cover-designer",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "video-chapter-generator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "video-to-everything-repurposer",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "viral-hook-generator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "viral-title-generator",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "x-twitter-growth-engine",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "youtube-chapter-generator",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "youtube-community-tab-playbook",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "youtube-competitor-analysis",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "youtube-seo-system",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "youtube-shorts-script-engine",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "youtube-thumbnail-prompt-system",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "youtube-thumbnail-refinement-system",
-        "mode": "discovery",
-        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+        "mode": "bundled",
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "youtube-to-twitter-thread",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       },
       {
         "slug": "youtube-video-description-writer",
         "mode": "bundled",
-        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+        "basis": "CreatorSkills MIT edition; per-file origins in bundled-library.json"
       }
     ],
     "apps": [
@@ -739,10 +739,6 @@
     {
       "slug": "agent-tools",
       "reason": "Internal, not publicly listed; third-party provenance not approved"
-    },
-    {
-      "scope": "Paid library instruction bodies",
-      "reason": "Separate products; existing purchase gates preserved; creator may supply owned files"
     },
     {
       "scope": "Applet prompts, credentials, app internals",

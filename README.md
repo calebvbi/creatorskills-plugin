@@ -1,6 +1,6 @@
 # CreatorSkills
 
-Turn a brief or transcript into drafts you can use. CreatorSkills brings 22 free workflows into Grok Bot: 17 complete workflows from its public MIT library, plus five workflows for combined creator tasks. It also helps you find and use separately acquired skills and prepare inputs for hosted apps.
+Turn a brief or transcript into drafts you can use. CreatorSkills brings 94 free workflows into Grok Bot: the full 89-workflow owned library, plus five workflows for combined creator tasks. It also prepares portable briefs using 55 app guides.
 
 ## Try it
 
@@ -22,17 +22,17 @@ Or:
 | Read creator analytics | Export or supplied metrics | Checked comparisons and a measurable next experiment |
 | Prepare creator business | Sponsor or client brief | Pitch, proposal, scope, or campaign report draft |
 
-The 17 library workflows cover content ideas, repurposing, bios, Community posts, blog outlines, Reels and TikTok scripts, LinkedIn posts, email subjects, newsletter growth, podcast show notes, threads, YouTube chapters and descriptions, creator productivity, and book launch planning. Each includes the full workflow, a worked example, and guidance for using it in Grok Bot. See [provenance and attribution](NOTICE.md).
+The 89 library workflows cover planning, writing, video and podcast production, newsletters, visual briefs, audience research, analytics, sponsorships, proposals, courses and creator operations. Each includes complete adapted instructions and a worked example; supporting guides are included where needed. See [provenance and attribution](NOTICE.md).
 
-All 22 workflows are free to use and need no CreatorSkills account or API key. Your Grok plan and any external services you choose retain their own limits and costs. Text instructions do not themselves render images, transcribe inaccessible media, send messages, or publish content.
+All 94 workflows are free and need no CreatorSkills account, API key or purchase. Your Grok plan has its own limits and costs. Text instructions do not themselves render images, transcribe inaccessible media, send messages or publish content. External integrations run only when actually available and authorized.
 
-## Library and app coverage
+## Full library and app preparation
 
-See [the complete index](skills/creator-studio/references/catalog.md) and [coverage manifest](coverage.json). All entries have an explicit access mode. This is full catalog discovery, not a free copy of every separately sold skill.
+See [the complete index](skills/creator-studio/references/catalog.md) and [coverage manifest](coverage.json). All 89 current owned library workflows are bundled as a new MIT edition. Separate website prices do not apply to the included plugin instructions. Existing purchasers retain their access. Counts describe this release; future website listings are not automatically bundled.
 
-The 17 MIT library workflows are bundled in full. The remaining 72 catalog products are separate downloads requiring purchase. To use one you own, attach its `SKILL.md` and required reference files, then ask: "Use this skill to [your task]." The [library workflow](skills/creator-studio/references/use-a-library-skill.md) checks required tools and applies the instructions in the current conversation. A skill requiring unavailable tools can only run its portable portions. It does not automatically install privately purchased files across your bots. Counts describe this release's snapshot; the online catalog can change.
+For a skill from elsewhere, attach its instructions and required references, then ask: "Use this skill to [your task]." The [supplied-file workflow](skills/creator-studio/references/use-a-library-skill.md) checks dependencies and available capabilities without assuming redistribution rights.
 
-Hosted app guides prepare a brief and link to the app. They do not run its pipeline or grant credits. Confirm current availability and cost on CreatorSkills.
+The 55 app guides organize inputs into portable briefs. They do not execute hosted pipelines or grant credits, and no paid app is required for the plugin. The creator can use the brief in this conversation or independently choose another service.
 
 The catalog finder uses Node.js 22 or later. It has no package dependencies:
 
@@ -53,6 +53,10 @@ Marketplace submission and in-app installation are release gates. Until a listin
 See [reproducible checks and conversation fixtures](TESTING.md). This is a pre-submission candidate; a public repository is not proof of marketplace availability.
 
 Once listed, open Grok Bot **Connect apps**, find **CreatorSkills**, add it, and start with one of the prompts above. Verify that the workflow produces the requested draft.
+
+## Gallery
+
+[View the five-image gallery](assets/gallery/README.md). Original illustrations show the intended creator workflows. Gallery placement on a live marketplace details page remains unconfirmed.
 
 ## Privacy, terms, and support
 

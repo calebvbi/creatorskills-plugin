@@ -1,6 +1,6 @@
 # Use a skill from your library
 
-Use this procedure when the creator wants a specific CreatorSkills library workflow, beyond the five bundled workflows. Buying or finding a listing is not evidence that its instructions have been loaded.
+Use this procedure for a named library workflow or a skill supplied by the creator. Check the bundled catalog first; all 89 owned library workflows in this edition are included and require no download or purchase. Buying or finding a listing is not evidence that its instructions have been loaded.
 
 ## Obtain the actual skill
 

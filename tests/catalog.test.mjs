@@ -91,11 +91,19 @@ test("only explicitly bundled MIT workflows claim included instructions", () => 
   assert.match(publicSkill({ ...item(1), slug: "new-free-skill", price: 0 }).capability, /not included/);
 });
 
-test("broad podcast discovery surfaces the usable bundled workflow", async () => {
+test("broad podcast discovery surfaces included workflows and exact requests stay relevant", async () => {
   const { items } = JSON.parse(await readFile(new URL("../skills/creator-studio/references/catalog.json", import.meta.url), "utf8"));
   const results = search(items, "podcast");
-  assert.equal(results[0].slug, "podcast-show-notes-creator");
+  assert.ok(results.every((item) => /included/.test(item.access)));
   assert.equal(search(items, "podcast guest booking system")[0].slug, "podcast-guest-booking-system");
+});
+
+test("a website price never becomes a fee for an included plugin workflow", () => {
+  const included = publicSkill({ ...item(1), slug: "brand-voice-codex", price: 7 });
+  assert.equal(included.price, 0);
+  assert.equal(included.websitePrice, 7);
+  assert.equal(included.priceScope, "Included plugin workflow");
+  assert.match(included.access, /no CreatorSkills account/);
 });
 
 test("oversized response is cancelled before the whole body is buffered", async () => {

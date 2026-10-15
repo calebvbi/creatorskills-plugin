@@ -79,7 +79,9 @@ export async function fetchCatalog(fetcher = fetch, signal = AbortSignal.timeout
 export function publicSkill(item) {
   return {
     slug: item.slug, name: item.name, summary: item.shortDescription, category: item.category,
-    tags: item.tags, price: item.price, currency: "USD",
+    tags: item.tags, price: bundledSlugs.has(item.slug) ? 0 : item.price, currency: "USD",
+    websitePrice: item.price,
+    priceScope: bundledSlugs.has(item.slug) ? "Included plugin workflow" : "Separate website listing",
     url: `https://creatorskills.co/skills/${item.slug}`,
     access: bundledSlugs.has(item.slug) ? "MIT library workflow included; no CreatorSkills account required" : item.price > 0 ? "Separate purchase required" : "Free listing; account or email may be required",
     capability: bundledSlugs.has(item.slug) ? `Run the bundled skills/${item.slug}/SKILL.md workflow.` : "Library discovery. Instructions are not included in this plugin.",
@@ -115,13 +117,13 @@ export async function run(args, { fetcher = fetch, read = readFile } = {}) {
   let items;
   let source;
   let asOf;
-  let notice = "Offline snapshot. Verify price and availability on the product page.";
+  let notice = "Offline snapshot. Included workflows are free in this plugin; website prices describe separate website offers.";
   if (!offline) {
     try {
       items = (await fetchCatalog(fetcher)).map(publicSkill);
       source = "live public catalog";
       asOf = new Date().toISOString();
-      notice = "Listing prices observed at retrieval. The product page controls purchase and access.";
+      notice = "Included workflows are free in this plugin. Website prices are separate listing prices observed at retrieval; no purchase is needed for bundled instructions.";
     } catch (error) {
       notice = `Live catalog could not be verified (${error instanceof Error ? error.message : "request failed"}). Using a dated snapshot; prices and availability may be stale.`;
     }
