@@ -83,6 +83,8 @@ Where to follow [Guest Name]:
 
 After the show notes, provide 3 ready-to-post captions:
 
+First check publication status and the destination link. If the creator has not confirmed that the episode is published and supplied a usable link, label the captions as previews or drafts. Do not say "new episode is live," "listen now," or "link in bio to listen." Use a planned-episode framing and `[CONFIRMED RELEASE DATE / LINK NEEDED]` instead. A drafted caption is not proof of publication.
+
 **Instagram/Facebook (150-200 words):**
 [Hook first. Tease the episode's best insight without giving it all away. End with a CTA like "Link in bio to listen."]
 
