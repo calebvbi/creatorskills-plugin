@@ -1,0 +1,110 @@
+{
+  "repository": "https://github.com/calebvbi/creatorskills-free-skills",
+  "commit": "f0b765a7bd2307675f35e007b6a1a816d610c083",
+  "license": "MIT",
+  "adaptation": "Normalized discovery names and added Grok compatibility rules; adapted source workflows/examples to remove unverified revenue formulas, invented results and contradictory timing guidance. Source hashes identify upstream originals, not adapted output.",
+  "items": [
+    {
+      "slug": "blog-post-outline-generator",
+      "name": "Blog Post Outline Generator",
+      "sourceSkillSha256": "6cc66309102cbb87413eee2d3e49d6a35eda272b5c9bd1c7b89f83ebc13ec8cc",
+      "sourceExampleSha256": "51b395862c9f6d9fad408d5f6ff814eb1cb27ae2af3b097bc463fa8e21bcb677"
+    },
+    {
+      "slug": "community-post-ideas",
+      "name": "Community Post Ideas",
+      "sourceSkillSha256": "df3d9e7c547403901835826e6a0805a5d5ada86872ba23efe7251fc19599f5b4",
+      "sourceExampleSha256": "c9952ad5a3e54bb6a7d0f2ab26d9e1f1e7fe8ec1f937045a5ec511e28414e829"
+    },
+    {
+      "slug": "content-idea-brainstormer",
+      "name": "Content Idea Brainstormer",
+      "sourceSkillSha256": "75aca0fc90779b524969d230f96083d3e668d298c96c48ddf24ecd60298a8633",
+      "sourceExampleSha256": "04a9f3e4508a8e5e93e7e985c9758c4efd4c528faa05cb8046a807c7a7c840ae"
+    },
+    {
+      "slug": "content-repurposing-planner",
+      "name": "Content Repurposing Planner",
+      "sourceSkillSha256": "67f4c4a68ce8a4969f05be9528e51c4c1139a910cbf3b66f56f6f9af768f402f",
+      "sourceExampleSha256": "e4ec8a7abdcb0783e7c6e72b7442060ca5e5e9625ac8be6bb3dfcd0a41a9ebaa"
+    },
+    {
+      "slug": "creator-bio-generator",
+      "name": "Creator Bio Generator",
+      "sourceSkillSha256": "77e691adbe1f7a3e20be4244e46cb44bd5a511545812e1907529607c8b8b521e",
+      "sourceExampleSha256": "00e6882ab9de78a74cd65c3aea5e97d20470065179790c118f4b1c842011dd79"
+    },
+    {
+      "slug": "creator-productivity-second-brain",
+      "name": "Creator Productivity Second Brain",
+      "sourceSkillSha256": "c30cb22f676ddc887f60b96736d6e07673f14aee7a833dd7c9529d3752a866f1",
+      "sourceExampleSha256": "667874359150f771324e2ebc095442453d9923eed68f514f5633397989100a79"
+    },
+    {
+      "slug": "email-subject-line-optimizer",
+      "name": "Email Subject Line Optimizer",
+      "sourceSkillSha256": "98f3bb410178155b373d4cda91e6e53d0ffdb6e299c1283fee349a6024064698",
+      "sourceExampleSha256": "f19cdae1bdf330e21f87e37374228017f4266acf4401af7e0760b60649681cd5"
+    },
+    {
+      "slug": "instagram-reels-script-writer",
+      "name": "Instagram Reels Script Writer",
+      "sourceSkillSha256": "452fb92f33d86ba9a679d378c930b43aabdd3b7327ef4a434a024b0c4c7742c1",
+      "sourceExampleSha256": "a7b3da0a0bb6d1dacdb872db013cba2f8c18ced6b0e3edae4d9eabf0e0b9245b"
+    },
+    {
+      "slug": "kdp-self-publishing-launch-kit",
+      "name": "KDP Self-Publishing Launch Kit",
+      "sourceSkillSha256": "e1c0223754fd3b03488fde927974a302ee97efb11b8a940bc786821a46f1f188",
+      "sourceExampleSha256": "1e814f766bba6df1f2ebd449743219be2c2994251d6e2bdd5d6626236fc7a0b8"
+    },
+    {
+      "slug": "linkedin-post-formatter",
+      "name": "LinkedIn Post Formatter",
+      "sourceSkillSha256": "98b3c4190ad641af70c67542acda89669bb73e550c6f0c832a1242d422e7d38f",
+      "sourceExampleSha256": "97a1396c6f45636445810ef90783173bbdd2976b74a15f695c5a28df093126d2"
+    },
+    {
+      "slug": "newsletter-subscriber-growth-engine",
+      "name": "Newsletter Subscriber Growth Engine",
+      "sourceSkillSha256": "cb259880315d719b0d828fadb3a49df5218033c0c173984eb4d3993cb6fcf2c6",
+      "sourceExampleSha256": "254730ecd3a181c69a2f64a093693cefe01a89f43f61fcd4f75eb4f17531240d"
+    },
+    {
+      "slug": "podcast-show-notes-creator",
+      "name": "Podcast Show Notes Creator",
+      "sourceSkillSha256": "430eff97ee7a02bcc251944b26efe06bb513743b5c6567533d34f4da93c6d007",
+      "sourceExampleSha256": "76f6a149bba21a4f2eb6a0585d48f81b44042c05808b141816137875a4a43b97"
+    },
+    {
+      "slug": "post-to-thread-converter",
+      "name": "Post-to-Thread Converter",
+      "sourceSkillSha256": "ae0f33f59ba9567e05ab8a416c29b9bc2bf77cc2f1d823d06a07e618979a7a32",
+      "sourceExampleSha256": "5af536246c24ea098e9db83ce7fc0a21450e79e3171305e5b91aa4f45829c2f4"
+    },
+    {
+      "slug": "tiktok-script-template",
+      "name": "TikTok Script Template",
+      "sourceSkillSha256": "a20dc135ecb1b20c67b03a14b32e15f4b9065cc16f1ecaf63c4c77449c17fb34",
+      "sourceExampleSha256": "5c63662ac29d7e56430e498161032f0eb8262fc064d82390729fe85b45ab356e"
+    },
+    {
+      "slug": "youtube-chapter-generator",
+      "name": "YouTube Chapter Generator",
+      "sourceSkillSha256": "cb1d946e4dc7a78d6ddfaa1948a3e0710c1b1f753a65ff1127b7aafa8bbee694",
+      "sourceExampleSha256": "b19634e8881a30fedd134daaaa250df08d609928007e717cfd4711706084a20a"
+    },
+    {
+      "slug": "youtube-to-twitter-thread",
+      "name": "YouTube to Twitter Thread",
+      "sourceSkillSha256": "ddc60afeee3cc46626cf2b4495ef5957e2275890f55a753f0b26b75b3fa5af9b",
+      "sourceExampleSha256": "1d78d9752ab745209e5ad6e010470cab7d51e157f11005a150b0822fef1ef60b"
+    },
+    {
+      "slug": "youtube-video-description-writer",
+      "name": "YouTube Video Description Writer",
+      "sourceSkillSha256": "fd20f9e431085f9937021cd236edf64c63de1a49ec3be27ceb9df7f31d93f40e",
+      "sourceExampleSha256": "d468f2243bb35062505e46d065731ddc8c98a6ccf66adc18019f79c0f8cad46b"
+    }
+  ]
+}

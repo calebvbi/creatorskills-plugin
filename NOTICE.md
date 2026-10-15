@@ -1,0 +1,5 @@
+# Attribution
+
+The 17 bundled library workflows and their examples come from [CreatorSkills Free Skills](https://github.com/calebvbi/creatorskills-free-skills/tree/f0b765a7bd2307675f35e007b6a1a816d610c083) at commit `f0b765a7bd2307675f35e007b6a1a816d610c083`, copyright 2026 CreatorSkills, MIT licensed. The [license](LICENSE) is included.
+
+Discovery names are normalized for Agent Skills. Each workflow adds a Grok Bot compatibility layer for source grounding, capability checks, and authorization. Source workflows and examples are adapted in each skill’s references. Corrections remove unverified revenue formulas, fabricated research or personal results, and contradictory timestamp instructions. Source hashes identify the upstream originals, not the adapted files. See [provenance](skills/creator-studio/references/bundled-library.json) for source hashes. Five additional workflows and the studio router were created for this plugin. Paid product instruction bodies and private app internals are not included.

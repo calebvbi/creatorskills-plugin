@@ -1,0 +1,1753 @@
+{
+  "asOf": "2026-10-15T02:54:31.408378+00:00",
+  "items": [
+    {
+      "slug": "ai-script-writer-for-youtube",
+      "name": "AI Script Writer for YouTube",
+      "summary": "Turn any video topic into a complete, ready-to-film script with hooks, pacing markers, and B-roll direction.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "youtube",
+        "scripts",
+        "writing",
+        "content-creation",
+        "retention"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/ai-script-writer-for-youtube",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "ai-thumbnail-factory",
+      "name": "AI Thumbnail Factory",
+      "summary": "Stop paying $20–50 per Fiverr thumbnail. 3 thumbnail concepts built for click-through plus paste-ready AI image prompts in 2 minutes.",
+      "category": "IMAGE_GENERATION_THUMBNAILS",
+      "tags": [
+        "thumbnails",
+        "youtube",
+        "design",
+        "image-generation",
+        "ctr-optimization",
+        "canva",
+        "click-through-rate"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/ai-thumbnail-factory",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "ai-title-ab-testing-framework",
+      "name": "AI Title A/B Testing Framework",
+      "summary": "Generate title variants, score them for curiosity, clarity, SEO, and click-through potential, then build and analyze cleaner A/B tests.",
+      "category": "TITLES_THUMBNAILS",
+      "tags": [
+        "title-testing",
+        "ab-testing",
+        "youtube-titles",
+        "blog-headlines",
+        "ctr-optimization",
+        "headline-testing",
+        "seo-titles",
+        "content-packaging"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/ai-title-ab-testing-framework",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "ai-voiceover-for-youtube",
+      "name": "AI Voiceover for YouTube",
+      "summary": "Turn a dry script into a punchy, narrated YouTube video, complete voiceover directions, TTS prompts, and pacing cues in one step.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "voiceover",
+        "narration",
+        "youtube",
+        "tts",
+        "faceless",
+        "script",
+        "production",
+        "audio"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/ai-voiceover-for-youtube",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "ai-webinar-script-generator-live-event-planner",
+      "name": "AI Webinar Script Generator + Live Event Planner",
+      "summary": "Write a 60-minute high-converting webinar script and plan the full live event: engagement prompts, tech checks, and follow-up included.",
+      "category": "COURSE_CREATION",
+      "tags": [
+        "webinar",
+        "scripts",
+        "course-launch",
+        "live-events",
+        "sales",
+        "course-creation",
+        "presentation",
+        "webinar-script"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/ai-webinar-script-generator-live-event-planner",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "analytics-insights-parser",
+      "name": "Analytics Insights Parser",
+      "summary": "Paste your YouTube analytics. See what's working, what's not, and what to change in your next 5 videos.",
+      "category": "ANALYTICS_OPTIMIZATION",
+      "tags": [
+        "analytics",
+        "youtube",
+        "growth",
+        "data"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/analytics-insights-parser",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "analytics-translator",
+      "name": "Analytics Translator",
+      "summary": "Paste your YouTube, TikTok, or Instagram analytics and get plain-English decisions: what to double down on, what's hurting your CTR, and what to post next.",
+      "category": "ANALYTICS_OPTIMIZATION",
+      "tags": [
+        "analytics",
+        "youtube-studio",
+        "data",
+        "strategy",
+        "metrics",
+        "tiktok-analytics",
+        "instagram-insights",
+        "content-strategy"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/analytics-translator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "audience-growth-stall-audit",
+      "name": "Audience Growth Stall Audit",
+      "summary": "Diagnose why your channel stopped growing. Pinpoints the #1 leak (algorithm, content, SEO, CTR, or retention), and delivers a 30-day recovery protocol.",
+      "category": "ANALYTICS_OPTIMIZATION",
+      "tags": [
+        "analytics",
+        "channel-growth",
+        "youtube-audit",
+        "growth-strategy",
+        "plateau",
+        "youtube-not-growing",
+        "channel-audit",
+        "retention",
+        "ctr",
+        "algorithm"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/audience-growth-stall-audit",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "audience-persona-builder",
+      "name": "Audience Persona Builder",
+      "summary": "Figure out who actually watches your stuff. A guided interview that turns your hunches into a real audience profile.",
+      "category": "ANALYTICS_OPTIMIZATION",
+      "tags": [
+        "audience",
+        "personas",
+        "audience-research",
+        "content-strategy",
+        "targeting",
+        "demographics"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/audience-persona-builder",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "blog-post-outline-generator",
+      "name": "Blog Post Outline Generator",
+      "summary": "Generate clear, SEO-aware blog outlines with title options, H2/H3 flow, and CTA strategy in minutes.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "blog",
+        "outline",
+        "seo",
+        "content-strategy",
+        "free"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/blog-post-outline-generator",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/blog-post-outline-generator/SKILL.md workflow."
+    },
+    {
+      "slug": "brand-voice-codex",
+      "name": "Brand Voice Codex",
+      "summary": "Paste your best writing, get a custom voice profile that makes Claude, ChatGPT, and Gemini write exactly like you, across every platform.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "brand-voice",
+        "tone",
+        "writing-style",
+        "consistency",
+        "personalization",
+        "ai-voice",
+        "creator-branding"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/brand-voice-codex",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "caption-chain-generator",
+      "name": "Caption Chain Generator",
+      "summary": "A full month of Instagram and LinkedIn captions, written and scheduled. Hashtags included.",
+      "category": "CONTENT_REPURPOSING",
+      "tags": [
+        "captions",
+        "instagram",
+        "linkedin",
+        "social-media",
+        "hashtags",
+        "content-calendar"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/caption-chain-generator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "channel-art-and-banner-kit",
+      "name": "Channel Art & Banner Kit",
+      "summary": "Generate detailed AI-image prompts and exact layout specs for your YouTube banner, end screen, Twitch banner + panels, and profile picture, all matching, all in one pass.",
+      "category": "IMAGE_GENERATION_THUMBNAILS",
+      "tags": [
+        "channel art",
+        "youtube banner",
+        "twitch panels",
+        "profile picture",
+        "brand kit",
+        "avatar",
+        "midjourney prompts"
+      ],
+      "price": 9,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/channel-art-and-banner-kit",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "client-proposal-system",
+      "name": "Client Proposal System",
+      "summary": "Write freelance proposals that win more clients: from discovery questions to closing the deal.",
+      "category": "FREELANCE_CLIENT",
+      "tags": [
+        "freelance",
+        "proposals",
+        "client-work",
+        "pricing",
+        "business-development",
+        "sales"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/client-proposal-system",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "collaboration-collab-pitch",
+      "name": "Collaboration & Collab Pitch",
+      "summary": "Write creator collab pitches that actually get responses. Evaluates audience fit, proposes specific formats, and writes personalized outreach, not generic DMs.",
+      "category": "SPONSOR_BRAND_DEALS",
+      "tags": [
+        "collaborations",
+        "outreach",
+        "partnerships",
+        "creator-network",
+        "collab-pitches",
+        "cross-promotion",
+        "youtube-growth",
+        "creator-collabs"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/collaboration-collab-pitch",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "community-comment-responder",
+      "name": "Community Comment Responder",
+      "summary": "Your audience writes 50+ comments per video. Replying builds loyalty, but it eats an hour you don't have. This skill writes replies in your voice in 10 minutes.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "youtube",
+        "comments",
+        "community",
+        "engagement",
+        "responses"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/community-comment-responder",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "community-membership-sales-page",
+      "name": "Paid Community Membership Sales Page Writer",
+      "summary": "Generate a high-converting sales page for your paid Skool, Discord, or Circle community using community psychology, not course-selling language.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "community",
+        "skool",
+        "discord",
+        "circle",
+        "membership",
+        "sales-page",
+        "copywriting",
+        "conversion",
+        "landing-page"
+      ],
+      "price": 14,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/community-membership-sales-page",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "community-post-calendar",
+      "name": "Community Post Calendar",
+      "summary": "90 days of YouTube Community tab posts (polls, questions, behind-the-scenes updates), written and ready to paste. 3 posts per week, 15 post types.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "community-tab",
+        "youtube",
+        "engagement",
+        "content-calendar",
+        "polls",
+        "audience-engagement",
+        "youtube-growth"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/community-post-calendar",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "community-post-ideas",
+      "name": "Community Post Ideas",
+      "summary": "30 days of Community tab ideas (polls, questions, updates) so your audience clicks instead of scrolling past.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "community",
+        "engagement",
+        "youtube",
+        "social"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/community-post-ideas",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/community-post-ideas/SKILL.md workflow."
+    },
+    {
+      "slug": "content-audit-cleanup",
+      "name": "Content Audit & Cleanup",
+      "summary": "Find what's dragging your channel down and what's worth promoting. A full audit of your content library with a cleanup plan.",
+      "category": "ANALYTICS_OPTIMIZATION",
+      "tags": [
+        "content-audit",
+        "content-strategy",
+        "seo-refresh",
+        "content-optimization",
+        "content-cleanup",
+        "analytics"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/content-audit-cleanup",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "content-idea-brainstormer",
+      "name": "Content Idea Brainstormer",
+      "summary": "Never stare at a blank upload schedule again: get 10 specific, ready-to-film content ideas for any niche in seconds.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "content-ideas",
+        "brainstorming",
+        "youtube",
+        "tiktok",
+        "instagram",
+        "video-ideas",
+        "free"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/content-idea-brainstormer",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/content-idea-brainstormer/SKILL.md workflow."
+    },
+    {
+      "slug": "content-repurposing-planner",
+      "name": "Content Repurposing Planner",
+      "summary": "Paste your YouTube video or podcast and get a full repurposing plan: which clips to extract, where to post them, and why.",
+      "category": "CONTENT_REPURPOSING",
+      "tags": [
+        "repurposing",
+        "content-strategy",
+        "multi-platform",
+        "workflow"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/content-repurposing-planner",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/content-repurposing-planner/SKILL.md workflow."
+    },
+    {
+      "slug": "course-curriculum-architect",
+      "name": "Course Curriculum Architect",
+      "summary": "Turn your course idea into a complete curriculum with lesson plans, pricing strategy, and launch sequence, ready to build, not just think about.",
+      "category": "COURSE_CREATION",
+      "tags": [
+        "courses",
+        "curriculum",
+        "teaching",
+        "online-courses",
+        "education"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/course-curriculum-architect",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "course-lesson-script-generator",
+      "name": "Course Lesson Script Generator",
+      "summary": "Write complete, engaging lesson scripts from a title and objectives, with hook, structured sections, engagement checks, and a bridge to the next lesson.",
+      "category": "COURSE_CREATION",
+      "tags": [
+        "course",
+        "lesson-script",
+        "video-lessons",
+        "teaching",
+        "e-learning"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/course-lesson-script-generator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "course-sales-page-writer",
+      "name": "Course Sales Page Writer",
+      "summary": "Write high-converting sales pages for your online course, complete with headlines, objection handlers, and urgency triggers that turn visitors into buyers.",
+      "category": "COURSE_CREATION",
+      "tags": [
+        "course-sales",
+        "landing-page",
+        "copywriting",
+        "conversion",
+        "marketing",
+        "sales-page"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/course-sales-page-writer",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "creator-bio-generator",
+      "name": "Creator Bio Generator",
+      "summary": "Stop sounding like everyone else. Get platform-optimized bios for YouTube, Instagram, TikTok, Twitter, and LinkedIn, all from a single input.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "bio",
+        "instagram",
+        "youtube",
+        "tiktok",
+        "twitter",
+        "linkedin",
+        "profile",
+        "about-me",
+        "free"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/creator-bio-generator",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/creator-bio-generator/SKILL.md workflow."
+    },
+    {
+      "slug": "creator-business-tax-tracker",
+      "name": "Creator Business & Tax Tracker",
+      "summary": "Structure your creator business, find every deduction, build a bookkeeping habit, and stop getting blindsided by tax bills.",
+      "category": "FREELANCE_CLIENT",
+      "tags": [
+        "freelance",
+        "taxes",
+        "bookkeeping",
+        "llc",
+        "business-setup",
+        "financial-planning",
+        "creator-business",
+        "self-employment"
+      ],
+      "price": 19,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/creator-business-tax-tracker",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "creator-media-kit-generator",
+      "name": "Creator Media Kit Generator",
+      "summary": "Build a professional media kit that gets brand deals responded to. Covers positioning statement, audience stats presentation, rate card, past partnership proof, and platform-specific kit variations: everything a brand or manager needs to say yes.",
+      "category": "FREELANCE_CLIENT",
+      "tags": [
+        "media-kit",
+        "brand-deals",
+        "sponsorship",
+        "creator-business",
+        "rate-card",
+        "brand-partnerships",
+        "youtube-sponsorship",
+        "influencer-marketing"
+      ],
+      "price": 14,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/creator-media-kit-generator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "creator-productivity-second-brain",
+      "name": "Creator Productivity Second Brain",
+      "summary": "Build a personal productivity system for creators: goal tracking, project management, time blocking, and content planning in one connected workspace.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "productivity",
+        "second-brain",
+        "goal-tracking",
+        "time-management",
+        "planning",
+        "workflow"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/creator-productivity-second-brain",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/creator-productivity-second-brain/SKILL.md workflow."
+    },
+    {
+      "slug": "digital-product-creator",
+      "name": "Digital Product Creator",
+      "summary": "Go from vague idea to a sellable digital product outline in 15 minutes with format, structure, pricing, positioning, and launch guidance.",
+      "category": "PRODUCT_CREATION",
+      "tags": [
+        "digital-products",
+        "creator-monetization",
+        "product-blueprint",
+        "notion-templates",
+        "ebook-creator",
+        "launch-plan",
+        "pricing-strategy"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/digital-product-creator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "email-subject-line-optimizer",
+      "name": "Email Subject Line Optimizer",
+      "summary": "Generate 5 high-converting email subject lines instantly, built for newsletters and creator announcements that actually get opened.",
+      "category": "EMAIL_NEWSLETTER",
+      "tags": [
+        "email",
+        "subject-lines",
+        "open-rates",
+        "newsletter",
+        "copywriting"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/email-subject-line-optimizer",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/email-subject-line-optimizer/SKILL.md workflow."
+    },
+    {
+      "slug": "faceless-youtube-channel-system",
+      "name": "Faceless YouTube Channel System",
+      "summary": "Build a profitable faceless YouTube channel with AI: niche selection, channel positioning, scripts with visual cue markers, voiceover briefs, and a 30-day batch content plan.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "faceless-youtube",
+        "youtube-automation",
+        "ai-narration",
+        "voiceover",
+        "youtube-scripts",
+        "content-planning",
+        "youtube-growth",
+        "batch-content"
+      ],
+      "price": 14,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/faceless-youtube-channel-system",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "freelance-retainer-pitch-system",
+      "name": "Freelance Retainer Pitch System",
+      "summary": "Convert one-off freelance clients into monthly retainer agreements: value scoping, proposal templates, pricing scripts, and objection handling for the 'why pay monthly?' conversation.",
+      "category": "FREELANCE_CLIENT",
+      "tags": [
+        "freelance",
+        "retainer",
+        "client-work",
+        "pricing",
+        "business-development",
+        "recurring-revenue",
+        "proposals",
+        "sales"
+      ],
+      "price": 14,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/freelance-retainer-pitch-system",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "instagram-reels-script-writer",
+      "name": "Instagram Reels Script Writer",
+      "summary": "Get shot-ready Reels scripts in 15, 30, 60, or 90 seconds, with hook, body, CTA, caption, and audio suggestions.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "instagram",
+        "reels",
+        "scripts",
+        "short-form",
+        "social-media"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/instagram-reels-script-writer",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/instagram-reels-script-writer/SKILL.md workflow."
+    },
+    {
+      "slug": "kdp-self-publishing-launch-kit",
+      "name": "KDP Self-Publishing Launch Kit",
+      "summary": "Validate a book niche, research keywords, outline your manuscript, create metadata, and build a launch marketing calendar for Amazon KDP, all with AI.",
+      "category": "PRODUCT_CREATION",
+      "tags": [
+        "self-publishing",
+        "kdp",
+        "book-launch",
+        "amazon",
+        "ebook",
+        "writing"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/kdp-self-publishing-launch-kit",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/kdp-self-publishing-launch-kit/SKILL.md workflow."
+    },
+    {
+      "slug": "lead-magnet-to-paid-product-ladder-builder",
+      "name": "Lead Magnet to Paid Product Ladder Builder",
+      "summary": "Design a complete value ladder (free lead magnet, low-ticket tripwire, mid-tier flagship, and premium offer) with the exact bridge copy that moves people from one tier to the next.",
+      "category": "PRODUCT_CREATION",
+      "tags": [
+        "value ladder",
+        "lead magnet",
+        "tripwire offer",
+        "product pricing",
+        "digital product strategy",
+        "sales funnel",
+        "monetization"
+      ],
+      "price": 12,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/lead-magnet-to-paid-product-ladder-builder",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "linkedin-authority-engine",
+      "name": "LinkedIn Authority Engine",
+      "summary": "Build a repeatable LinkedIn authority system that turns your expertise into stronger posts, better conversations, and qualified inbound leads.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "linkedin",
+        "personal-brand",
+        "authority",
+        "inbound-leads",
+        "content-pillars",
+        "freelancers",
+        "consultants"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/linkedin-authority-engine",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "linkedin-content-system",
+      "name": "LinkedIn Content System",
+      "summary": "Plan and write a full week of LinkedIn content in 15 minutes: posts, hooks, hashtags, and posting schedule included.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "linkedin",
+        "social-media",
+        "weekly-content",
+        "carousels",
+        "personal-brand",
+        "b2b",
+        "content-planning"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/linkedin-content-system",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "linkedin-post-formatter",
+      "name": "LinkedIn Post Formatter",
+      "summary": "Turn rough ideas into polished LinkedIn posts with stronger hooks, cleaner structure, and engagement-ready CTAs.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "linkedin",
+        "post-template",
+        "personal-brand",
+        "engagement",
+        "free"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/linkedin-post-formatter",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/linkedin-post-formatter/SKILL.md workflow."
+    },
+    {
+      "slug": "livestream-thumbnail-and-key-art-kit",
+      "name": "Livestream Thumbnail & Key Art Kit",
+      "summary": "AI thumbnail and channel key art generator for Twitch, YouTube Live, and Kick streamers: pre-stream thumbnails, VOD covers, and a repeatable channel art system in one pass.",
+      "category": "IMAGE_GENERATION_THUMBNAILS",
+      "tags": [
+        "twitch",
+        "youtube live",
+        "kick",
+        "livestream",
+        "thumbnails",
+        "key art",
+        "channel banner",
+        "image-generation"
+      ],
+      "price": 9,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/livestream-thumbnail-and-key-art-kit",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "long-form-script-system",
+      "name": "Long-Form Script System",
+      "summary": "Write a complete YouTube script in 15 minutes: hooks, retention loops, pacing markers, B-roll notes, and a CTA that doesn't feel forced.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "scripts",
+        "youtube",
+        "writing",
+        "retention",
+        "storytelling",
+        "long-form",
+        "video-scripts",
+        "teleprompter"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/long-form-script-system",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "monetization-strategy-planner",
+      "name": "Monetization Strategy Planner",
+      "summary": "See every way your channel could make money, ranked by what makes sense at your size right now.",
+      "category": "FREELANCE_CLIENT",
+      "tags": [
+        "monetization",
+        "revenue",
+        "creator-business",
+        "pricing",
+        "income-streams",
+        "business-strategy"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/monetization-strategy-planner",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "newsletter-conversion-engine",
+      "name": "Newsletter Conversion Engine",
+      "summary": "You know you need a newsletter. You know you should email your list. Instead, you have 200 subscribers you haven't contacted in three months. This skill writes complete newsletters from your content, and welcome sequences that actually convert.",
+      "category": "EMAIL_NEWSLETTER",
+      "tags": [
+        "newsletter",
+        "email",
+        "conversion",
+        "lead-magnet",
+        "email-marketing",
+        "convertkit",
+        "beehiiv",
+        "subscriber-growth"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/newsletter-conversion-engine",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "newsletter-sponsorship-pitch-kit",
+      "name": "Newsletter Sponsorship Pitch & Media Kit Generator",
+      "summary": "Turn your newsletter into paid sponsor revenue: media kit with real pricing tiers, sponsor prospect research, cold outreach pitches, and ad copy templates that read like editorial content, not banner ads.",
+      "category": "EMAIL_NEWSLETTER",
+      "tags": [
+        "newsletter",
+        "sponsorship",
+        "media kit",
+        "outreach",
+        "monetization",
+        "ad sales",
+        "email"
+      ],
+      "price": 10,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/newsletter-sponsorship-pitch-kit",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "newsletter-subscriber-growth-engine",
+      "name": "Newsletter Subscriber Growth Engine",
+      "summary": "Break through the friends-and-family plateau. Five tools to diagnose your growth blockers, build a lead magnet, convert followers to subscribers, land cross-promos, and write a welcome email that actually retains people.",
+      "category": "EMAIL_NEWSLETTER",
+      "tags": [
+        "newsletter",
+        "email",
+        "subscriber growth",
+        "beehiiv",
+        "substack",
+        "lead magnet",
+        "free"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/newsletter-subscriber-growth-engine",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/newsletter-subscriber-growth-engine/SKILL.md workflow."
+    },
+    {
+      "slug": "notion-content-dashboard-builder",
+      "name": "Notion Content Dashboard Builder",
+      "summary": "Build a complete content operations dashboard in Notion (content calendar, idea pipeline, analytics tracker, sponsor board, and brand asset library), all customized for your creator workflow.",
+      "category": "PRODUCT_CREATION",
+      "tags": [
+        "notion",
+        "content-planning",
+        "content-calendar",
+        "dashboard",
+        "workflow",
+        "productivity",
+        "organization",
+        "creator-tools",
+        "project-management"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/notion-content-dashboard-builder",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "online-course-launch-planner",
+      "name": "Online Course Launch Planner",
+      "summary": "Plan your full course launch with a pre-launch checklist, pricing structure, launch timeline, and post-launch debrief in one session.",
+      "category": "COURSE_CREATION",
+      "tags": [
+        "course-launch",
+        "launch-plan",
+        "pricing-strategy",
+        "creator-education",
+        "email-launch",
+        "course-marketing",
+        "cohort-launch"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/online-course-launch-planner",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "patreon-tier-refresh-engine",
+      "name": "Patreon Tier Refresh Engine",
+      "summary": "Stop losing patrons every month. Audit your tiers, fix the value gaps, and relaunch a membership that converts better and churns less.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "patreon",
+        "membership",
+        "tiers",
+        "churn",
+        "retention",
+        "monetization",
+        "subscription",
+        "relaunch"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/patreon-tier-refresh-engine",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "platform-optimizer-matrix",
+      "name": "Platform Optimizer Matrix",
+      "summary": "Posting everywhere burns you out. Rank your best platforms and get exact posting schedules matched to your content and available hours.",
+      "category": "ANALYTICS_OPTIMIZATION",
+      "tags": [
+        "optimization",
+        "distribution",
+        "multi-platform",
+        "algorithm",
+        "growth"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/platform-optimizer-matrix",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "podcast-episode-planner",
+      "name": "Podcast Episode Planner",
+      "summary": "Go from topic to recording-ready outline in 10 minutes, with timed segments, hooks, and guest questions.",
+      "category": "PODCASTING",
+      "tags": [
+        "podcast",
+        "podcasting",
+        "episode-planning",
+        "guest-interviews",
+        "solo-episodes",
+        "show-structure"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/podcast-episode-planner",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "podcast-guest-booking-system",
+      "name": "Podcast Guest Booking System",
+      "summary": "Run your entire guest pipeline from discovery to pre-show prep: ideal guest profile, research, cold outreach, follow-ups, and prep kit.",
+      "category": "PODCASTING",
+      "tags": [
+        "podcast",
+        "guest booking",
+        "outreach",
+        "email",
+        "interviews",
+        "podcast growth"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/podcast-guest-booking-system",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "podcast-monetization-system",
+      "name": "Podcast Monetization System",
+      "summary": "Turn your podcast into a revenue stream. Covers sponsor prospecting, rate-setting, ad script formats, dynamic insertion strategy, and alternative income streams: everything between 'I have listeners' and 'I have income.'",
+      "category": "SPONSOR_BRAND_DEALS",
+      "tags": [
+        "podcast",
+        "podcast-monetization",
+        "podcast-sponsorship",
+        "host-read-ads",
+        "podcast-revenue",
+        "sponsorship-pitch",
+        "podcast-cpm",
+        "affiliate-marketing"
+      ],
+      "price": 19,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/podcast-monetization-system",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "podcast-production-suite",
+      "name": "Podcast Production Suite",
+      "summary": "Plan, script, and produce podcast episodes from concept to publish: episode structures, interview prep, guest outreach, content calendars, and launch strategy.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "podcast",
+        "production",
+        "interview-prep",
+        "episode-planning",
+        "content-calendar",
+        "guest-outreach",
+        "scripts"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/podcast-production-suite",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "podcast-season-arc-planner",
+      "name": "Podcast Season Arc & Content Calendar Planner",
+      "summary": "Plan an entire 8-12 episode podcast season at once: theme, episode map, publishing calendar with real lead times, and a season-launch promo plan.",
+      "category": "PODCASTING",
+      "tags": [
+        "podcast",
+        "content calendar",
+        "season planning",
+        "editorial calendar",
+        "podcast growth",
+        "batch planning",
+        "content strategy"
+      ],
+      "price": 10,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/podcast-season-arc-planner",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "podcast-show-notes-creator",
+      "name": "Podcast Show Notes Creator",
+      "summary": "Drop in your transcript or outline and get SEO-optimized show notes, timestamps, key quotes, and social captions, all done.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "podcast",
+        "show-notes",
+        "seo",
+        "timestamps",
+        "content-creation"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/podcast-show-notes-creator",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/podcast-show-notes-creator/SKILL.md workflow."
+    },
+    {
+      "slug": "podcast-trailer-and-sponsor-read-script-generator",
+      "name": "Podcast Trailer & Sponsor Ad Read Script Generator",
+      "summary": "Write show trailers, episode teasers, and host-read sponsor ad scripts that sound like you, not like a copy-pasted ad: 15s/30s/60s variants across pre-roll, mid-roll, and post-roll.",
+      "category": "PODCASTING",
+      "tags": [
+        "podcast",
+        "podcast trailer",
+        "sponsor ads",
+        "host-read ads",
+        "podcast marketing",
+        "ad script",
+        "podcast monetization"
+      ],
+      "price": 9,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/podcast-trailer-and-sponsor-read-script-generator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "post-campaign-sponsor-report-builder",
+      "name": "Post-Campaign Sponsor Report Builder",
+      "summary": "Build a professional post-campaign sponsor report with reach stats, engagement breakdown, audience sentiment, and a next-deal proposal, ready to send in 15 minutes.",
+      "category": "SPONSOR_BRAND_DEALS",
+      "tags": [
+        "sponsorship",
+        "brand-deals",
+        "post-campaign",
+        "reporting",
+        "retention"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/post-campaign-sponsor-report-builder",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "post-purchase-survey-automation",
+      "name": "Post-Purchase Survey Automation",
+      "summary": "Find out if buyers used what they bought, and bring them back. Automated 3-question survey with NPS tracking, 15% incentive code, and Day 14 follow-up.",
+      "category": "PRODUCT_CREATION",
+      "tags": [
+        "survey",
+        "nps",
+        "customer-feedback",
+        "email-automation",
+        "resend",
+        "analytics",
+        "retention",
+        "product-market-fit"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/post-purchase-survey-automation",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "post-to-thread-converter",
+      "name": "Post-to-Thread Converter",
+      "summary": "Turn any blog post, newsletter, or brain dump into a Twitter thread and LinkedIn post, in the time it takes to ask.",
+      "category": "CONTENT_REPURPOSING",
+      "tags": [
+        "threads",
+        "twitter",
+        "linkedin",
+        "repurposing",
+        "social-media",
+        "content-repurposing",
+        "free"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/post-to-thread-converter",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/post-to-thread-converter/SKILL.md workflow."
+    },
+    {
+      "slug": "quote-card-and-carousel-cover-generator",
+      "name": "Quote Card & Carousel Cover Generator",
+      "summary": "Turn any quote, excerpt, or takeaway into ready-to-generate quote card prompts, carousel cover prompts + slide outlines, and Pinterest pin prompts, with a locked visual system so every post looks like it's from the same brand.",
+      "category": "IMAGE_GENERATION_THUMBNAILS",
+      "tags": [
+        "quote cards",
+        "carousel",
+        "instagram",
+        "pinterest",
+        "image prompts",
+        "visual branding",
+        "linkedin"
+      ],
+      "price": 8,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/quote-card-and-carousel-cover-generator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "script-structure-pro",
+      "name": "Script Structure Pro",
+      "summary": "Go from a rough idea to a filmable script: hook, talking points, and a CTA that doesn't sound desperate.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "scripts",
+        "writing",
+        "youtube",
+        "structure"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/script-structure-pro",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "seo-title-description-writer",
+      "name": "SEO Title & Description Writer",
+      "summary": "AI SEO title generator for YouTube, blogs, and podcasts: get 5+ title options that rank and actually get clicked, plus optimized descriptions.",
+      "category": "TITLES_THUMBNAILS",
+      "tags": [
+        "seo",
+        "titles",
+        "meta-descriptions",
+        "youtube-seo",
+        "blog-seo",
+        "search-optimization"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/seo-title-description-writer",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "short-form-video-producer",
+      "name": "Short-Form Video Producer",
+      "summary": "Produce complete short-form videos from idea to publish: scripts, visual plans, audio, captions, and a weekly content calendar for TikTok, Shorts, and Reels.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "short-form",
+        "tiktok",
+        "youtube-shorts",
+        "instagram-reels",
+        "video-production",
+        "content-calendar",
+        "scripts"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/short-form-video-producer",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "skool-community-launch-kit",
+      "name": "Skool Community Launch Kit",
+      "summary": "Launch a paid Skool community in one session: name, pricing, onboarding, 30-day content calendar, and a retention system that keeps members paying.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "skool",
+        "community",
+        "membership",
+        "launch",
+        "creator",
+        "monetization",
+        "onboarding",
+        "retention"
+      ],
+      "price": 19,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/skool-community-launch-kit",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "sponsor-deal-calculator",
+      "name": "Sponsor Deal Calculator & Pitch",
+      "summary": "Calculate fair sponsor rates, write personalized pitches, and build a media kit in under 20 minutes.",
+      "category": "SPONSOR_BRAND_DEALS",
+      "tags": [
+        "sponsorships",
+        "brand-deals",
+        "monetization",
+        "pitch",
+        "media-kit",
+        "rates"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/sponsor-deal-calculator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "sponsor-outreach-email-writer",
+      "name": "Sponsor Outreach Email Writer",
+      "summary": "Most sponsor emails get deleted in 5 seconds. This skill writes personalized pitches that reference real campaigns, plus follow-ups and a rate card.",
+      "category": "SPONSOR_BRAND_DEALS",
+      "tags": [
+        "sponsorship",
+        "outreach",
+        "email",
+        "brands",
+        "monetization",
+        "pitch",
+        "brand-deals",
+        "creator-income"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/sponsor-outreach-email-writer",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "sponsor-pitch-email",
+      "name": "Sponsor Pitch Email",
+      "summary": "Write sponsor emails that reference the brand's campaigns and explain why your audience fits. Not generic.",
+      "category": "SPONSOR_BRAND_DEALS",
+      "tags": [
+        "sponsors",
+        "brand deals",
+        "email",
+        "monetization"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/sponsor-pitch-email",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "thumbnail-ab-test-analyzer",
+      "name": "Thumbnail A/B Test Analyzer",
+      "summary": "You know which thumbnail won. You don't know why, so next time you guess again. This skill turns A/B test data into a repeatable winning framework.",
+      "category": "TITLES_THUMBNAILS",
+      "tags": [
+        "youtube",
+        "thumbnails",
+        "ctr",
+        "analytics",
+        "testing"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/thumbnail-ab-test-analyzer",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "tiktok-script-template",
+      "name": "TikTok Script Template",
+      "summary": "Generate TikTok-native scripts with better hooks, pacing, and comment-focused CTAs in minutes.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "tiktok",
+        "script-template",
+        "hooks",
+        "short-form-video",
+        "free"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/tiktok-script-template",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/tiktok-script-template/SKILL.md workflow."
+    },
+    {
+      "slug": "trend-hunter-system",
+      "name": "Trend Hunter System",
+      "summary": "Catch trends while they're still rising, not after everyone's already made the video.",
+      "category": "ANALYTICS_OPTIMIZATION",
+      "tags": [
+        "trends",
+        "research",
+        "content-ideas",
+        "analytics",
+        "strategy"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/trend-hunter-system",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "twitch-clip-highlight-generator",
+      "name": "Twitch Clip & Highlight Generator",
+      "summary": "Turn Twitch streams into TikTok, YouTube Shorts, and Reels with automated clipping and editing workflows.",
+      "category": "CONTENT_REPURPOSING",
+      "tags": [
+        "twitch",
+        "clipping",
+        "highlights",
+        "tiktok",
+        "youtube-shorts",
+        "reels",
+        "content-repurposing",
+        "short-form"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/twitch-clip-highlight-generator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "twitch-stream-manager",
+      "name": "Twitch Stream Manager",
+      "summary": "Set up a professional Twitch stream from scratch with scenes, overlays, audio, and go-live workflow.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "twitch",
+        "streaming",
+        "OBS",
+        "live-stream",
+        "Twitch Studio",
+        "Streamlabs",
+        "overlays",
+        "scenes"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/twitch-stream-manager",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "ugc-creator-brief-generator",
+      "name": "UGC Creator Brief Generator",
+      "summary": "Generate professional creative briefs for UGC projects: from brand response briefs to self-directing filming plans that save revisions and speed up approvals.",
+      "category": "FREELANCE_CLIENT",
+      "tags": [
+        "ugc",
+        "brand-deals",
+        "content-creator",
+        "freelance",
+        "brief",
+        "project-management",
+        "short-form-video",
+        "scope"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/ugc-creator-brief-generator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "ugc-creator-portfolio-kit",
+      "name": "UGC Creator Portfolio Kit",
+      "summary": "Build a brand-ready UGC portfolio, calculate your rates, and write outreach that gets product deals.",
+      "category": "FREELANCE_CLIENT",
+      "tags": [
+        "ugc",
+        "brand-deals",
+        "content-creator",
+        "freelance",
+        "portfolio",
+        "short-form-video",
+        "outreach",
+        "pricing"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/ugc-creator-portfolio-kit",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "vertical-video-cover-designer",
+      "name": "Vertical Video Cover Designer",
+      "summary": "AI cover frame generator for TikTok, Reels, and YouTube Shorts: 3 scroll-stopping concepts per video, built for 9:16 safe zones and profile-grid legibility, not resized 16:9 leftovers.",
+      "category": "IMAGE_GENERATION_THUMBNAILS",
+      "tags": [
+        "tiktok",
+        "reels",
+        "youtube-shorts",
+        "vertical-video",
+        "thumbnails",
+        "cover-frame",
+        "image-generation",
+        "short-form-video"
+      ],
+      "price": 9,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/vertical-video-cover-designer",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "video-chapter-generator",
+      "name": "Video Chapter Timestamp Generator",
+      "summary": "Manually timestamping a 20-minute video takes 20 minutes and the chapters still read generic. This skill reads your script and outputs ready-to-paste timestamps with SEO-friendly titles, in under 3 minutes.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "youtube",
+        "chapters",
+        "timestamps",
+        "organization",
+        "seo"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/video-chapter-generator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "video-to-everything-repurposer",
+      "name": "Video-to-Everything Repurposer",
+      "summary": "Turn one YouTube video into 15+ pieces of content (Twitter threads, LinkedIn posts, newsletters, Shorts scripts, and more), in a single session.",
+      "category": "CONTENT_REPURPOSING",
+      "tags": [
+        "repurposing",
+        "multi-platform",
+        "content-creation",
+        "social-media",
+        "time-saver",
+        "content-distribution",
+        "cross-posting"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/video-to-everything-repurposer",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "viral-hook-generator",
+      "name": "Viral Hook Generator",
+      "summary": "Get 5 scroll-stopping hooks for any video topic in under 2 minutes. Built on 12 hook archetypes for Shorts, Reels, and TikToks.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "hooks",
+        "shorts",
+        "reels",
+        "tiktok",
+        "short-form",
+        "retention",
+        "viral",
+        "opening-lines"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/viral-hook-generator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "viral-title-generator",
+      "name": "Viral Title Generator",
+      "summary": "Generate 10 click-worthy video titles, each built on a named psychological trigger.",
+      "category": "TITLES_THUMBNAILS",
+      "tags": [
+        "titles",
+        "youtube",
+        "viral",
+        "CTR"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/viral-title-generator",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "x-twitter-growth-engine",
+      "name": "Twitter/X Growth Engine",
+      "summary": "Go from zero (or stuck) to a growing Twitter/X audience: profile optimization, content pillars, daily post framework, reply strategy, and a follower-to-email conversion funnel.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "twitter",
+        "x",
+        "twitter-growth",
+        "social-media",
+        "audience-building",
+        "content-strategy",
+        "creator-growth",
+        "email-list"
+      ],
+      "price": 14,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/x-twitter-growth-engine",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "youtube-chapter-generator",
+      "name": "YouTube Chapter Generator",
+      "summary": "Turn a transcript into timestamped YouTube chapters that boost retention and search visibility in under 2 minutes.",
+      "category": "ANALYTICS_OPTIMIZATION",
+      "tags": [
+        "youtube",
+        "chapters",
+        "timestamps",
+        "seo",
+        "watch-time"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/youtube-chapter-generator",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/youtube-chapter-generator/SKILL.md workflow."
+    },
+    {
+      "slug": "youtube-community-tab-playbook",
+      "name": "YouTube Community Tab Playbook",
+      "summary": "Generate a week of YouTube Community Tab content in minutes: polls, pre-upload warm-ups, engagement questions, and posts engineered to drive algorithm signals and build loyal audiences.",
+      "category": "COMMUNITY_ENGAGEMENT",
+      "tags": [
+        "youtube",
+        "community-tab",
+        "engagement",
+        "polls",
+        "algorithm",
+        "audience-building",
+        "creator",
+        "weekly-content"
+      ],
+      "price": 12,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/youtube-community-tab-playbook",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "youtube-competitor-analysis",
+      "name": "YouTube Competitor Analysis",
+      "summary": "Reverse-engineer what's working in your niche: map competitor content gaps, decode title patterns, and build a content strategy based on proven demand.",
+      "category": "ANALYTICS_OPTIMIZATION",
+      "tags": [
+        "analytics",
+        "competitor-analysis",
+        "youtube",
+        "research",
+        "strategy",
+        "seo",
+        "content-gap",
+        "channel-growth"
+      ],
+      "price": 14,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/youtube-competitor-analysis",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "youtube-seo-system",
+      "name": "YouTube SEO System",
+      "summary": "Turn your YouTube channel from a guessing game into a system. Get keyword research, title formulas, description templates, retention analysis, and a monthly analytics protocol, all tied to your actual numbers.",
+      "category": "ANALYTICS_OPTIMIZATION",
+      "tags": [
+        "youtube",
+        "SEO",
+        "titles",
+        "descriptions",
+        "tags",
+        "thumbnails",
+        "system"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/youtube-seo-system",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "youtube-shorts-script-engine",
+      "name": "YouTube Shorts Script Engine",
+      "summary": "Write native YouTube Shorts scripts from scratch, extract your best long-form moments, and get titles, descriptions, and a posting cadence, all in one skill.",
+      "category": "SCRIPTS_OUTLINES",
+      "tags": [
+        "youtube",
+        "shorts",
+        "scripts",
+        "reels",
+        "tiktok",
+        "vertical video",
+        "hooks"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/youtube-shorts-script-engine",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "youtube-thumbnail-prompt-system",
+      "name": "YouTube Thumbnail Prompt System",
+      "summary": "Generate click-focused YouTube thumbnail prompts in minutes with model-specific outputs for ChatGPT, Flux, and Midjourney.",
+      "category": "TITLES_THUMBNAILS",
+      "tags": [
+        "ai-image-prompts",
+        "youtube-thumbnails",
+        "midjourney-prompts",
+        "flux-prompts",
+        "chatgpt-image",
+        "thumbnail-ab-testing",
+        "thumbnail-workflow"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/youtube-thumbnail-prompt-system",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "youtube-thumbnail-refinement-system",
+      "name": "YouTube Thumbnail Refinement System",
+      "summary": "Fix rough AI thumbnails before you publish with a refinement system for cleaner composition, believable visuals, and test-ready final variants.",
+      "category": "IMAGE_GENERATION_THUMBNAILS",
+      "tags": [
+        "youtube-thumbnails",
+        "thumbnail-refinement",
+        "ai-thumbnail-polish",
+        "image-generation",
+        "canva",
+        "ctr-optimization",
+        "thumbnail-workflow"
+      ],
+      "price": 7,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/youtube-thumbnail-refinement-system",
+      "access": "Separate purchase required",
+      "capability": "Library discovery. Instructions are not included in this plugin."
+    },
+    {
+      "slug": "youtube-to-twitter-thread",
+      "name": "YouTube to Twitter Thread",
+      "summary": "Paste a YouTube link, get a ready-to-post thread that pulls the best moments and links back to your video.",
+      "category": "CONTENT_REPURPOSING",
+      "tags": [
+        "youtube",
+        "twitter",
+        "threads",
+        "repurposing"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/youtube-to-twitter-thread",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/youtube-to-twitter-thread/SKILL.md workflow."
+    },
+    {
+      "slug": "youtube-video-description-writer",
+      "name": "YouTube Video Description Writer",
+      "summary": "Generate publish-ready YouTube descriptions in minutes, with better keyword coverage and stronger viewer CTAs.",
+      "category": "ANALYTICS_OPTIMIZATION",
+      "tags": [
+        "youtube",
+        "description",
+        "seo",
+        "video-publishing",
+        "free"
+      ],
+      "price": 0,
+      "currency": "USD",
+      "url": "https://creatorskills.co/skills/youtube-video-description-writer",
+      "access": "MIT library workflow included; no CreatorSkills account required",
+      "capability": "Run the bundled skills/youtube-video-description-writer/SKILL.md workflow."
+    }
+  ]
+}

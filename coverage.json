@@ -1,0 +1,752 @@
+{
+  "sourceCommit": "35821fa5ded33527b51d94a04998db18ba9b1b48",
+  "asOf": "2026-10-15T02:54:31.408378+00:00",
+  "baselineSha256": "668c692c245afcffc4777fa06c7d9fb8b97b7841d9c77b2b0067a31ee487c753",
+  "coverage": {
+    "skillListings": 89,
+    "freeListings": 17,
+    "appGuides": 55,
+    "bundledOriginalWorkflows": 5,
+    "bundledLibraryWorkflows": 17
+  },
+  "included": {
+    "skills": [
+      {
+        "slug": "ai-script-writer-for-youtube",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "ai-thumbnail-factory",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "ai-title-ab-testing-framework",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "ai-voiceover-for-youtube",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "ai-webinar-script-generator-live-event-planner",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "analytics-insights-parser",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "analytics-translator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "audience-growth-stall-audit",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "audience-persona-builder",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "blog-post-outline-generator",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "brand-voice-codex",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "caption-chain-generator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "channel-art-and-banner-kit",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "client-proposal-system",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "collaboration-collab-pitch",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "community-comment-responder",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "community-membership-sales-page",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "community-post-calendar",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "community-post-ideas",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "content-audit-cleanup",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "content-idea-brainstormer",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "content-repurposing-planner",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "course-curriculum-architect",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "course-lesson-script-generator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "course-sales-page-writer",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "creator-bio-generator",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "creator-business-tax-tracker",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "creator-media-kit-generator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "creator-productivity-second-brain",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "digital-product-creator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "email-subject-line-optimizer",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "faceless-youtube-channel-system",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "freelance-retainer-pitch-system",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "instagram-reels-script-writer",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "kdp-self-publishing-launch-kit",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "lead-magnet-to-paid-product-ladder-builder",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "linkedin-authority-engine",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "linkedin-content-system",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "linkedin-post-formatter",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "livestream-thumbnail-and-key-art-kit",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "long-form-script-system",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "monetization-strategy-planner",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "newsletter-conversion-engine",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "newsletter-sponsorship-pitch-kit",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "newsletter-subscriber-growth-engine",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "notion-content-dashboard-builder",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "online-course-launch-planner",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "patreon-tier-refresh-engine",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "platform-optimizer-matrix",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "podcast-episode-planner",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "podcast-guest-booking-system",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "podcast-monetization-system",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "podcast-production-suite",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "podcast-season-arc-planner",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "podcast-show-notes-creator",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "podcast-trailer-and-sponsor-read-script-generator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "post-campaign-sponsor-report-builder",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "post-purchase-survey-automation",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "post-to-thread-converter",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "quote-card-and-carousel-cover-generator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "script-structure-pro",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "seo-title-description-writer",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "short-form-video-producer",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "skool-community-launch-kit",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "sponsor-deal-calculator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "sponsor-outreach-email-writer",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "sponsor-pitch-email",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "thumbnail-ab-test-analyzer",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "tiktok-script-template",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "trend-hunter-system",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "twitch-clip-highlight-generator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "twitch-stream-manager",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "ugc-creator-brief-generator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "ugc-creator-portfolio-kit",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "vertical-video-cover-designer",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "video-chapter-generator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "video-to-everything-repurposer",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "viral-hook-generator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "viral-title-generator",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "x-twitter-growth-engine",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "youtube-chapter-generator",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "youtube-community-tab-playbook",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "youtube-competitor-analysis",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "youtube-seo-system",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "youtube-shorts-script-engine",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "youtube-thumbnail-prompt-system",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "youtube-thumbnail-refinement-system",
+        "mode": "discovery",
+        "basis": "Public CreatorSkills catalog metadata; owned-file execution supported"
+      },
+      {
+        "slug": "youtube-to-twitter-thread",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      },
+      {
+        "slug": "youtube-video-description-writer",
+        "mode": "bundled",
+        "basis": "Public MIT library at f0b765a7bd2307675f35e007b6a1a816d610c083"
+      }
+    ],
+    "apps": [
+      {
+        "slug": "brand-voice-codex",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "viral-hook-title-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "ai-thumbnail-factory",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "video-to-everything-repurposer",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "analytics-translator",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "audience-persona-builder",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "blog-outline-builder",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "caption-chain-generator",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "channel-brand-kit",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "client-proposal-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "community-comment-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "community-tab-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "content-idea-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "content-library-audit",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "content-repurposing-planner",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "course-curriculum-architect",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "course-launch-kit",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "course-lesson-script-studio",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "creator-bio-suite",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "creator-collab-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "creator-media-kit-generator",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "creator-sponsorship-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "creator-tax-readiness-report",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "digital-product-ladder",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "faceless-channel-launch-system",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "growth-stall-diagnostic",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "instagram-reels-script-writer",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "kdp-book-launch-kit",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "linkedin-authority-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "long-form-script-system",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "membership-launch-pack",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "membership-tier-refresh",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "monetization-strategy-planner",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "newsletter-conversion-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "newsletter-growth-audit",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "platform-distribution-matrix",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "podcast-episode-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "podcast-publishing-pack",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "podcast-season-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "podcast-sponsorship-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "post-campaign-sponsor-report",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "post-to-thread-converter",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "seo-title-description-writer",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "short-form-video-producer",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "social-cover-studio",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "stream-clip-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "thumbnail-ab-test-analyzer",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "title-test-designer",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "twitch-stream-setup-system",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "ugc-creator-deal-kit",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "voiceover-direction-pack",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "webinar-script-and-event-planner",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "x-twitter-growth-engine",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "youtube-channel-seo-audit",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      },
+      {
+        "slug": "youtube-publish-pack",
+        "mode": "preparation",
+        "basis": "CreatorSkills listed app metadata; no pipeline prompts"
+      }
+    ]
+  },
+  "excluded": [
+    {
+      "slug": "agent-tools",
+      "reason": "Internal, not publicly listed; third-party provenance not approved"
+    },
+    {
+      "scope": "Paid library instruction bodies",
+      "reason": "Separate products; existing purchase gates preserved; creator may supply owned files"
+    },
+    {
+      "scope": "Applet prompts, credentials, app internals",
+      "reason": "Not required by public plugin"
+    }
+  ]
+}
