@@ -5,10 +5,10 @@
       "title": "Rough ideas. Real drafts.",
       "alt": "Creator workflows for Grok Bot: turn rough source material into useful drafts. Dimensional lettering and a sharp orange pencil on cobalt.",
       "purpose": "The core promise",
-      "width": 1733,
-      "height": 907,
-      "bytes": 1427922,
-      "sha256": "6a1e33bea954c48b7865f4e2459551e4d4db847a6772e98834ef1037c98c5ec0"
+      "width": 1732,
+      "height": 908,
+      "bytes": 1432170,
+      "sha256": "08e5d9f8a8c1ede408fe84919192f388ac0a2da7c6f23fd7eb5410197fff0d36"
     },
     {
       "file": "02-repurpose.png",
@@ -17,8 +17,8 @@
       "purpose": "Concrete input to output",
       "width": 1734,
       "height": 907,
-      "bytes": 1672373,
-      "sha256": "00c701ad85603ffd05af7a2bfbb67c0889735136387395d56c296682c074473d"
+      "bytes": 1705123,
+      "sha256": "784c0e870023f4be3ab1f1f4302a22c0a80ef654e5aa704bdc7b220e59338962"
     },
     {
       "file": "03-your-voice.png",
@@ -27,8 +27,8 @@
       "purpose": "Voice consistency",
       "width": 1733,
       "height": 907,
-      "bytes": 1308162,
-      "sha256": "d17c5ed55e1ebbd24247ef8500847eeb75c1f83ea339437f312d3b114ab00fe1"
+      "bytes": 1493973,
+      "sha256": "b5ff3fd444efa23811aff3a9b3bedec57a5834c561ce48047797fe7991d2a486"
     },
     {
       "file": "04-analytics.png",
@@ -36,9 +36,9 @@
       "alt": "Worked example, clicks divided by views: 50/1,000 = 5%; 45/1,500 = 3%. This is a synthetic comparison, not customer performance.",
       "purpose": "Evidence before conclusions",
       "width": 1733,
-      "height": 907,
-      "bytes": 1443981,
-      "sha256": "e4c8562753b7a1f4efa793f08c35d9ae1776646f543229be9a827c2dfc94733e"
+      "height": 908,
+      "bytes": 1437373,
+      "sha256": "85d98a71816c03016d24269bc9e52ad4284462b9d4f94ddc9cdb2eeda2603bc5"
     },
     {
       "file": "05-library.png",
@@ -47,8 +47,8 @@
       "purpose": "The full included library",
       "width": 1734,
       "height": 907,
-      "bytes": 1641924,
-      "sha256": "05a2d6b77ad526c8faafe424b1bdc2cdaad5207b69a83ffe9b02d235c35e4727"
+      "bytes": 1626151,
+      "sha256": "3f1bac29386dda3fe6839e96287f62fdf47e66dcac6ed056afc449043bf13d60"
     }
   ],
   "type": "Generated editorial advertising; not product screenshots",
