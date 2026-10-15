@@ -6,11 +6,11 @@
 Use the supplied source as the fact ledger. Do not add personal history, product testing, audience statistics, client results, credentials or testimonials. If evidence is missing, write useful process or benefit copy and mark the specific proof block as needing evidence. Quote only supplied, approved words. A fictional teaching scenario must be labeled fictional and must not become a publishable testimonial.
 
 
-Give it your course title, price, audience, and the transformation you promise. Get back every section of a sales page — headline, problem-agitate-solution open, curriculum breakdown, objection FAQ, and CTAs — about 1,500–3,000 words you can paste into Teachable or Kajabi in under 30 minutes.
+Give it your course title, price, audience, and the learning outcome you teach. Get back every section of a sales page — headline, problem-agitate-solution open, curriculum breakdown, objection FAQ, and CTAs — a requested-length draft to review and format for your course platform.
 
 ## What This Skill Does
 
-This skill writes every section of a high-converting course sales page based on your course details, target audience, and transformation promise. You get complete copy — not outlines or templates — that you can paste directly into your course platform (Teachable, Kajabi, Thinkific, WordPress, etc.).
+This skill writes every section of a course sales-page draft based on your course details, target audience, and learning objective. You get complete draft copy, with missing evidence marked, that you can adapt for your course platform (Teachable, Kajabi, Thinkific, WordPress, etc.).
 
 ## What You Need Before Starting
 
@@ -19,7 +19,7 @@ Gather these details about your course:
 1. **Course title** — What are you calling it?
 2. **Price** — What will you charge?
 3. **Target audience** — Who is this for? Be specific (not "everyone" but "freelance designers with 2+ years experience")
-4. **Transformation** — What will they be able to do after taking your course that they can't do now?
+4. **Learning objective** — What will students practice? Distinguish the course objective from a guaranteed student result.
 5. **Course format** — Video lessons? Written content? Live calls? Workbooks?
 6. **Duration** — How long to complete?
 7. **Your credentials** — Why should they learn from you specifically?
@@ -38,7 +38,7 @@ COURSE DETAILS:
 Title: [Your Course Title]
 Price: $[Amount]
 Target Audience: [Specific description]
-Transformation: [What they'll be able to do after]
+Learning objective: [What students will practice; no unsupported outcome guarantee]
 Format: [Video/written/live/etc.]
 Duration: [Time to complete]
 Instructor Background: [Why you're qualified]
@@ -51,7 +51,7 @@ Enrollment Closes: [Date or "open ongoing"]
 
 After pasting your details, ask:
 
-"Write a complete sales page for this course using proven conversion frameworks. Include:
+"Write a complete sales page for this course using clear copywriting structures. Include:
 - Attention-grabbing headline with benefit + curiosity
 - Opening hook that identifies their pain
 - Section establishing the problem and cost of inaction
@@ -76,25 +76,27 @@ The skill will output a complete sales page. Review for:
 
 ### Step 4: Format for Your Platform
 
-Copy sections into your course platform. Most platforms (Teachable, Kajabi, etc.) accept basic HTML or rich text.
+Copy sections into your course platform. Check the chosen platform's current formatting support before preparing HTML or rich text.
 
 ## Example Input
+
+Fictional teaching brief; these are supplied sample facts, not claims about a real course. The output preview below uses only these facts.
 
 ```
 COURSE DETAILS:
 Title: YouTube Scriptwriting Mastery
 Price: $297
 Target Audience: YouTubers with 1K-50K subscribers struggling to write scripts efficiently
-Transformation: Write engaging, retention-optimized scripts in 45 minutes instead of 6+ hours
+Learning objective: Practice a repeatable script-drafting and revision process; no measured speed or retention gain supplied
 Format: 12 video lessons + downloadable templates + script library
 Duration: 4 hours total (self-paced)
 Instructor Background: 5 years scripting for 3 channels totaling 2M+ subscribers
 Bonuses Included:
-- 50 proven script templates ($97 value)
-- Private Discord community access ($47/month value)
-- Monthly live Q&A calls ($197 value)
+- 50 script templates (no established separate retail value)
+- Private discussion community access (no established separate retail value)
+- Monthly live Q&A calls (no established separate retail value)
 Guarantee: 30-day money-back guarantee, no questions asked
-Enrollment Closes: March 31, 2026
+Enrollment Closes: Open ongoing
 ```
 
 ## What You'll Get Back
@@ -123,7 +125,7 @@ A complete sales page including:
 
 **Curriculum Module**
 - 4-8 module breakdown with outcomes per module
-- Module names that promise specific results
+- Module names describing the skills students practice
 - "By the end of this module..." outcomes
 
 **Instructor Credibility**
@@ -134,22 +136,22 @@ A complete sales page including:
 **Social Proof**
 - Placeholder for 2-3 testimonials
 - Results-focused testimonial template
-- "Join X other students" social proof
+- Student-count copy only when a verified count and reporting date are supplied; otherwise omit
 
 **Bonuses Section**
-- Each bonus with specific value assigned
-- Total bonus value calculation
-- "If you paid separately" comparison
+- Describe each supplied bonus without inventing a price
+- Calculate total bonus value only from substantiated, comparable prices
+- Use a separate-purchase comparison only when those prices and terms are real
 
 **Who This Is For / Not For**
 - 3-4 specific qualifiers for ideal students
 - 2-3 disqualifiers to filter wrong fits
-- This builds trust and reduces refunds
+- Help readers assess fit; do not promise a refund-rate change
 
 **Guarantee Section**
 - Risk reversal language
 - Simple refund process description
-- "You have nothing to lose" framing
+- State supplied refund conditions and exclusions clearly; do not claim there is no risk or cost
 
 **FAQ Section**
 - 5-8 common objections handled:
@@ -162,10 +164,10 @@ A complete sales page including:
 **CTAs Throughout**
 - Early CTA after problem section
 - Mid-page CTA after curriculum
-- Final CTA with urgency/scarcity
+- Final CTA; include urgency/scarcity only when supported by a real supplied deadline or limit
 - Sticky button option for mobile
 
-**Urgency Elements (if applicable)**
+**Urgency Elements (only when supplied and real)**
 - Enrollment deadline countdown language
 - "Doors close" specifics
 - Price increase warning
@@ -173,14 +175,14 @@ A complete sales page including:
 
 ## Conversion Frameworks Used
 
-The skill incorporates these proven copywriting frameworks:
+Use these copywriting structures as options, not evidence of guaranteed conversion:
 
 - **PAS** (Problem-Agitate-Solution) — Opens with pain, intensifies it, presents course as solution
-- **Feature-Benefit-Outcome** — Every feature tied to tangible result
-- **Future Pacing** — Helps them visualize success after taking course
-- **Risk Reversal** — Guarantee removes buying hesitation
-- **Value Stacking** — Bonuses make price feel like a bargain
-- **Urgency/Scarcity** — Deadlines motivate action
+- **Feature-Benefit-Outcome** — Connect supplied features to learning objectives without guaranteeing results
+- **Future Pacing** — Describe a possible use of the learned skill, clearly conditional
+- **Refund Policy** — Explain the actual terms so readers can assess them
+- **Included Materials** — Describe bonuses without inventing retail values
+- **Urgency/Scarcity** — State genuine deadlines or capacity limits only
 
 ## Customization Tips
 
@@ -192,47 +194,45 @@ The skill incorporates these proven copywriting frameworks:
 **Adjust Length**
 - Request "condensed version" for simpler courses
 - Request "extended version" for premium/high-ticket courses
-- Most sales pages run 1,500-3,000 words
+- If no length is requested, propose a length appropriate to the course details
 
 **Platform-Specific Formatting**
 - Ask for "HTML formatting" if your platform supports it
 - Ask for "plain text with markdown" for flexible formatting
 - Specify your platform (Teachable, Kajabi, etc.) for optimized structure
 
-## Pro Tips for Maximum Conversions
+## Review and Test the Draft
 
-1. **Test your headline** — This is 80% of your results. Try 3-5 variations.
+1. **Test your headline** — Try 3-5 truthful variations; measure performance under comparable conditions instead of assigning a universal share of results to the headline.
 2. **Add real testimonials** — Replace placeholders with actual student results.
-3. **Use the FAQ strategically** — Every objection you handle is a sale you save.
+3. **Use the FAQ strategically** — Answer real questions clearly; whether the FAQ changes sales must be measured.
 4. **Include a video** — Consider a short walkthrough if it helps explain the course. Test whether it helps this audience; do not assume a conversion uplift.
 5. **Mobile optimize** — Preview on a phone as well as a larger screen; use actual analytics if discussing device traffic shares.
 
 ## Common Mistakes to Avoid
 
-❌ **Focusing on course content instead of outcomes** — Students buy results, not information
-❌ **Generic claims** — "Learn everything about X" vs. "Launch your X in 30 days"
-❌ **No clear target** — "This course is for everyone" = converts no one
-❌ **Hiding the price** — Transparent pricing builds trust
-❌ **Weak guarantee** — "No refunds" kills conversions. Strong guarantee increases sales AND reduces refunds
+❌ **Focusing on course content instead of outcomes** — Connect the curriculum to useful practice without guaranteeing learner results
+❌ **Generic claims** — Prefer a specific learning task to a universal promise; include a completion time only with suitable evidence
+❌ **No clear target** — Explain who the course is designed for without asserting a universal conversion effect
+❌ **Hiding the price** — State the full supplied price and any required costs clearly
+❌ **Invented refund terms** — Use the owner's actual policy. Do not promise increased sales or fewer refunds from a policy choice
 
 ## Example Output Preview
 
-Here's what the opening might look like:
+The following draft opening uses the fictional input above. It adds no student results, audience behavior or measured performance claim.
 
 ---
 
-**Headline:** Write YouTube Scripts in 45 Minutes That Keep Viewers Watching Until the End
+**Headline:** Give Your Next YouTube Script a Clear Structure
 
-**Subhead:** The same system that's helped 200+ channels increase retention by 23% (without hiring a scriptwriter)
+**Subhead:** Practice drafting and revising with 12 video lessons, downloadable templates and a script library.
 
 **Opening:**
-You know that sinking feeling. You sit down to write a script. Three hours later, you have three paragraphs and a growing sense that today's video isn't happening.
+If you know your video topic but find it difficult to organize the script, a repeatable process gives you a sequence of decisions to work through.
 
-So you wing it. Hit record. Ramble for 20 minutes. Edit for six hours trying to find a coherent thread.
+YouTube Scriptwriting Mastery is a self-paced workshop for creators with 1,000–50,000 subscribers who want to develop that process. The lessons contain four hours of video; practice time will vary.
 
-The video goes live. 37% of viewers drop off in the first 90 seconds.
-
-There's a better way. And it doesn't involve becoming a "writer" or hiring someone for $500/script.
+Explore the curriculum, included materials and supplied 30-day refund policy before deciding whether the $297 course fits your needs.
 
 ---
 
@@ -240,4 +240,4 @@ There's a better way. And it doesn't involve becoming a "writer" or hiring someo
 
 Paste your course details using the template above and request your complete sales page copy.
 
-The whole process takes 10 minutes of your time and produces sales copy that would cost $500-2,000 to outsource.
+Review the draft against the supplied brief, resolve evidence placeholders, and check formatting before publication. Completion time and outsourcing cost are not established by this workflow.

@@ -24,6 +24,15 @@ When a creator asks for help, you need to understand their situation. If they do
 
 If a creator gives you enough context in their first message (a transcript plus channel details, for example), skip the questions and go straight to output. Never slow someone down with unnecessary back-and-forth.
 
+## Source fidelity before drafting
+
+Build the email from the supplied facts, including their limits. Check every first-person statement, time reference and preference in the subject, preview and body against the source before returning it. A source map or disclaimer after the email does not repair an unsupported claim inside the copy.
+
+- Do not add "recently", "this week", a test duration or a personal plan unless supplied. A familiar email tone is not permission to invent history or intent.
+- Preserve exactly what a preference describes. "I preferred the blue cover" does not establish choosing or buying the notebook, liking how it feels to use, or finding it more productive. State the cover preference without upgrading its scope.
+- New advice or framing must remain a suggestion in the email itself, not a test result or personal experience. A source saying productivity was not measured must retain that limit. Omit extra material when it would require invented facts; a thin source can produce a short, complete email.
+- Template phrases about recent events, feelings, personal stories and results are conditional slots. Use them only when supported, otherwise replace them with a neutral opening based on the source.
+
 ## Newsletter Content Types
 
 Every newsletter issue should fit one of these five formats. Variety keeps readers engaged — don't send the same format every week.
@@ -34,7 +43,7 @@ Take a video's key insights and reformat them for email. This is NOT a transcrip
 
 **How to do it right:**
 - Pull the 1-2 strongest insights from the video, not all of them
-- Add context or depth that wasn't in the video (a personal aside, an extra tip, updated thinking)
+- Add useful framing or a clearly proposed tip without inventing a personal aside, experience or updated belief. Use new factual context only when supported by supplied material or a checked source.
 - Write it as a self-contained email that makes sense without watching anything
 - Link to the video at the end for people who want the full version
 
@@ -51,7 +60,7 @@ Hey [name],
 
 [One actionable takeaway the reader can use today]
 
-[CTA: "I broke this down in way more detail in this week's video → [link]"]
+[CTA, only when the source supports the promised detail: "See the video → [supplied link]". Omit an unavailable link and do not add a publication date.]
 
 [Sign-off]
 ```
@@ -119,7 +128,7 @@ Preview text
 
 Hey [name],
 
-[Honest opener — "Here's something I haven't shared publicly" or "I messed something up this week"]
+[Opening based on the supplied event or observation. Do not invent recency, prior disclosure or a mistake.]
 
 [The story or update. Be specific. Real numbers, real timelines, real feelings.]
 

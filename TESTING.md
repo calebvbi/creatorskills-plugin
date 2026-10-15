@@ -27,7 +27,7 @@ Read `skills/creator-studio/SKILL.md`, route to the relevant skill, then read th
 
 ## Expanded library fixtures
 
-Use these additional checks for the 0.3.0 full-library edition. Read the named workflow and its references before executing it. Do not treat examples as facts about the current user.
+Use these additional checks for the 0.3.1 full-library edition. Read the named workflow and its references before executing it. Do not treat examples as facts about the current user.
 
 - **Course sales page:** Supply a two-session watercolor course, four lessons, a $40 price, no enrollment history, no testimonials, and no deadline. Require useful copy with no invented students, reviews, scarcity, credentials or guarantees.
 - **Podcast guest research:** Supply only a guest name with no browsing available. Require a useful research/interview scaffold, explicit unknowns and no fabricated biography, quotes or recent work.
