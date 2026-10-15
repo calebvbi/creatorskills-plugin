@@ -88,7 +88,7 @@ Write titles the way a viewer would describe what they want to find. Think about
 - Weak: `Export quality troubleshooting`
 
 ### Intro and Outro Chapters
-Always label the first chapter `Intro` or `Introduction` unless the video jumps directly into content with no preamble. If there is no outro/wrap-up, do not force one. Only add an `Outro` or `Wrap-up` chapter if the creator clearly has a closing segment.
+Add an `Intro` or `Introduction` chapter only when the supplied source explicitly contains an opening segment. Otherwise start with the first supplied topic. Do not invent an opening, outro or recap from the fact that the input is an outline. Only add an `Outro` or `Wrap-up` chapter when the supplied source includes a closing segment.
 
 ---
 

@@ -1,5 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
+import { readFile } from "node:fs/promises";
 import { fetchCatalog, publicSkill, readJson, run, search, validatePage } from "../skills/creator-studio/scripts/catalog.mjs";
 
 const item = (i) => ({ slug: `skill-${i}`, name: `Skill ${i}`, shortDescription: "Podcast sponsor brief", category: "PODCASTING", price: 7, tags: ["sponsor"] });
@@ -88,6 +89,13 @@ test("only explicitly bundled MIT workflows claim included instructions", () => 
   assert.match(included.access, /MIT library workflow included/);
   assert.match(included.capability, /skills\/podcast-show-notes-creator\/SKILL.md/);
   assert.match(publicSkill({ ...item(1), slug: "new-free-skill", price: 0 }).capability, /not included/);
+});
+
+test("broad podcast discovery surfaces the usable bundled workflow", async () => {
+  const { items } = JSON.parse(await readFile(new URL("../skills/creator-studio/references/catalog.json", import.meta.url), "utf8"));
+  const results = search(items, "podcast");
+  assert.equal(results[0].slug, "podcast-show-notes-creator");
+  assert.equal(search(items, "podcast guest booking system")[0].slug, "podcast-guest-booking-system");
 });
 
 test("oversized response is cancelled before the whole body is buffered", async () => {

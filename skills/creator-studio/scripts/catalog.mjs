@@ -96,7 +96,7 @@ export function search(items, query, limit = 5) {
     return { item, score };
   });
   return ranked.filter(({ score }) => score > 0)
-    .sort((a, b) => b.score - a.score || a.item.slug.localeCompare(b.item.slug))
+    .sort((a, b) => b.score - a.score || Number(bundledSlugs.has(b.item.slug)) - Number(bundledSlugs.has(a.item.slug)) || a.item.slug.localeCompare(b.item.slug))
     .slice(0, limit).map(({ item }) => item);
 }
 
